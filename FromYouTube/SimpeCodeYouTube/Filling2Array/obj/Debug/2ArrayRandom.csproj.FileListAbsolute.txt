@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\bin\Debug\Filling2Array.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\bin\Debug\Filling2Array.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\bin\Debug\Filling2Array.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\2ArrayRandom.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\2ArrayRandom.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\Filling2Array.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\Filling2Array.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Filling2Array\bin\Debug\Filling2Array.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Filling2Array\bin\Debug\Filling2Array.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Filling2Array\bin\Debug\Filling2Array.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Filling2Array\obj\Debug\2ArrayRandom.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Filling2Array\obj\Debug\Filling2Array.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Filling2Array\obj\Debug\Filling2Array.pdb

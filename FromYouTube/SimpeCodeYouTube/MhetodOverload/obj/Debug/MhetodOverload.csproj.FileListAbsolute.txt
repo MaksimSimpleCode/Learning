@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\bin\Debug\MhetodOverload.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\bin\Debug\MhetodOverload.exe
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\bin\Debug\MhetodOverload.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\obj\Debug\MhetodOverload.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\obj\Debug\MhetodOverload.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\obj\Debug\MhetodOverload.exe
+C:\123\Проекты C#\SimpeCodeYouTube\MhetodOverload\obj\Debug\MhetodOverload.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\bin\Debug\MhetodOverload.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\bin\Debug\MhetodOverload.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\bin\Debug\MhetodOverload.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\obj\Debug\MhetodOverload.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\obj\Debug\MhetodOverload.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\obj\Debug\MhetodOverload.pdb

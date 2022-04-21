@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Params\bin\Release\Params.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Params\bin\Release\Params.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Params\bin\Release\Params.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Params\obj\Release\Params.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Params\obj\Release\Params.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Params\obj\Release\Params.pdb

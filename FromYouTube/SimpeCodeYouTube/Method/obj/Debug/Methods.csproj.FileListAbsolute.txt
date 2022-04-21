@@ -1,0 +1,12 @@
+C:\123\Проекты C#\SimpeCodeYouTube\Method\bin\Debug\Method.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\Method\bin\Debug\Method.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Method\bin\Debug\Method.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\Method\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Method\obj\Debug\Method.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Method\obj\Debug\Method.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\bin\Debug\Method.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\bin\Debug\Method.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\bin\Debug\Method.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\obj\Debug\Method.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\obj\Debug\Method.pdb

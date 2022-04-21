@@ -1,0 +1,7 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\bin\Release\Array.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\bin\Release\Array.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\bin\Release\Array.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Release\Array.csproj.AssemblyReference.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Release\Array.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Release\Array.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Release\Array.pdb

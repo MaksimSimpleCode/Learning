@@ -1,0 +1,19 @@
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.exe
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22(Loop).csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.exe
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.pdb
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.exe.config
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.exe
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.pdb
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22(Loop).csproj.AssemblyReference.cache
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22(Loop).csproj.CoreCompileInputs.cache
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.exe
+A:\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLessons22\bin\Debug\HwLessons22.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLessons22\bin\Debug\HwLessons22.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLessons22\bin\Debug\HwLessons22.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLessons22\obj\Debug\HwLessons22(Loop).csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLessons22\obj\Debug\HwLessons22.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLessons22\obj\Debug\HwLessons22.pdb

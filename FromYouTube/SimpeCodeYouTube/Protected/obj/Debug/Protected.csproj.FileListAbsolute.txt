@@ -1,0 +1,2 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Protected\obj\Debug\Protected.csproj.AssemblyReference.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Protected\obj\Debug\Protected.csproj.CoreCompileInputs.cache

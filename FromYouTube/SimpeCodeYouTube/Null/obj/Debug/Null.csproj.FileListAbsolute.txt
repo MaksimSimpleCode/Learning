@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\Null\bin\Debug\Null.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\Null\bin\Debug\Null.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Null\bin\Debug\Null.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\Null\obj\Debug\Null.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Null\obj\Debug\Null.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Null\obj\Debug\Null.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Null\obj\Debug\Null.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Null\bin\Debug\Null.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Null\bin\Debug\Null.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Null\bin\Debug\Null.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Null\obj\Debug\Null.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Null\obj\Debug\Null.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Null\obj\Debug\Null.pdb

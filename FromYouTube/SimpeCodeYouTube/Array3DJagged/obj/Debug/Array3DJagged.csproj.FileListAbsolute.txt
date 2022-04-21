@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\bin\Debug\Array3DJagged.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\bin\Debug\Array3DJagged.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\bin\Debug\Array3DJagged.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\obj\Debug\Array3DJagged.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\obj\Debug\Array3DJagged.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\obj\Debug\Array3DJagged.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Array3DJagged\obj\Debug\Array3DJagged.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array3DJagged\bin\Debug\Array3DJagged.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array3DJagged\bin\Debug\Array3DJagged.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array3DJagged\bin\Debug\Array3DJagged.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array3DJagged\obj\Debug\Array3DJagged.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array3DJagged\obj\Debug\Array3DJagged.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array3DJagged\obj\Debug\Array3DJagged.pdb

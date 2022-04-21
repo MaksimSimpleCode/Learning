@@ -1,0 +1,14 @@
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\bin\Debug\Inheritance.exe.config
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\bin\Debug\Inheritance.exe
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\bin\Debug\Inheritance.pdb
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\obj\Debug\Inheritance.exe
+A:\Проекты C#\SimpeCodeYouTube\Inheritance\obj\Debug\Inheritance.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\bin\Debug\Inheritance.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\bin\Debug\Inheritance.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\bin\Debug\Inheritance.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\obj\Debug\Inheritance.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Inheritance\obj\Debug\Inheritance.pdb

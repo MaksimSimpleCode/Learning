@@ -1,0 +1,13 @@
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\bin\Debug\HwLesson16.exe.config
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\bin\Debug\HwLesson16.exe
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\bin\Debug\HwLesson16.pdb
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\obj\Debug\HwLesson16(if else).csproj.AssemblyReference.cache
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\obj\Debug\HwLesson16(if else).csproj.CoreCompileInputs.cache
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\obj\Debug\HwLesson16.exe
+A:\Проекты C#\SimpeCodeYouTube\HwLesson16\obj\Debug\HwLesson16.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson16\bin\Debug\HwLesson16.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson16\bin\Debug\HwLesson16.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson16\bin\Debug\HwLesson16.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson16\obj\Debug\HwLesson16(if else).csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson16\obj\Debug\HwLesson16.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson16\obj\Debug\HwLesson16.pdb

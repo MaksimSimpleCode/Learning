@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Recursion\bin\Release\Recursion.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Recursion\bin\Release\Recursion.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Recursion\bin\Release\Recursion.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Recursion\obj\Release\Recursion.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Recursion\obj\Release\Recursion.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Recursion\obj\Release\Recursion.pdb

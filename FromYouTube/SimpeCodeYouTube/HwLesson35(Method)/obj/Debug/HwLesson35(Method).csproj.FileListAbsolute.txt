@@ -1,0 +1,20 @@
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\bin\Debug\HwLesson35(Method).exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\bin\Debug\HwLesson35(Method).exe
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\bin\Debug\HwLesson35(Method).pdb
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).exe
+C:\123\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).pdb
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\bin\Debug\HwLesson35(Method).exe.config
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\bin\Debug\HwLesson35(Method).exe
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\bin\Debug\HwLesson35(Method).pdb
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).csproj.AssemblyReference.cache
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).csproj.CoreCompileInputs.cache
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).exe
+A:\Проекты C#\SimpeCodeYouTube\HwLesson35(Method)\obj\Debug\HwLesson35(Method).pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\bin\Debug\HwLesson35(Method).exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\bin\Debug\HwLesson35(Method).exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\bin\Debug\HwLesson35(Method).pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\obj\Debug\HwLesson35(Method).csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\obj\Debug\HwLesson35(Method).exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\obj\Debug\HwLesson35(Method).pdb

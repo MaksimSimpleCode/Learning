@@ -1,0 +1,12 @@
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\bin\Debug\ReferansAndValue.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\bin\Debug\ReferansAndValue.exe
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\bin\Debug\ReferansAndValue.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferensAndValue.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferansAndValue.exe
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferansAndValue.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ReferansAndValue\bin\Debug\ReferansAndValue.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ReferansAndValue\bin\Debug\ReferansAndValue.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ReferansAndValue\bin\Debug\ReferansAndValue.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ReferansAndValue\obj\Debug\ReferensAndValue.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ReferansAndValue\obj\Debug\ReferansAndValue.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ReferansAndValue\obj\Debug\ReferansAndValue.pdb

@@ -1,0 +1,14 @@
+C:\123\Проекты C#\SimpeCodeYouTube\Array\bin\Debug\Array.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\Array\bin\Debug\Array.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Array\bin\Debug\Array.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Array\obj\Debug\Array.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Array\obj\Debug\Array.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\bin\Debug\Array.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\bin\Debug\Array.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\bin\Debug\Array.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Debug\Array.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Array\obj\Debug\Array.pdb

@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\bin\Debug\TernarOperator.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\bin\Debug\TernarOperator.exe
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\bin\Debug\TernarOperator.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\obj\Debug\TernarOperator.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\obj\Debug\TernarOperator.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\obj\Debug\TernarOperator.exe
+C:\123\Проекты C#\SimpeCodeYouTube\TernarOperator\obj\Debug\TernarOperator.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\TernarOperator\bin\Debug\TernarOperator.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\TernarOperator\bin\Debug\TernarOperator.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\TernarOperator\bin\Debug\TernarOperator.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\TernarOperator\obj\Debug\TernarOperator.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\TernarOperator\obj\Debug\TernarOperator.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\TernarOperator\obj\Debug\TernarOperator.pdb

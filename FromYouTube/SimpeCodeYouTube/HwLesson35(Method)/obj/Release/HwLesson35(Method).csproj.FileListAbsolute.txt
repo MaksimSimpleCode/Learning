@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\bin\Release\HwLesson35(Method).exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\bin\Release\HwLesson35(Method).exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\bin\Release\HwLesson35(Method).pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\obj\Release\HwLesson35(Method).csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\obj\Release\HwLesson35(Method).exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\HwLesson35(Method)\obj\Release\HwLesson35(Method).pdb

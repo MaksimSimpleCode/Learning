@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\JaggedArray\bin\Debug\JaggedArray.exe
+C:\123\Проекты C#\SimpeCodeYouTube\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\JaggedArray\obj\Debug\ArrayJagged.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\JaggedArray\obj\Debug\JaggedArray.exe
+C:\123\Проекты C#\SimpeCodeYouTube\JaggedArray\obj\Debug\JaggedArray.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\bin\Debug\JaggedArray.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\bin\Debug\JaggedArray.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\bin\Debug\JaggedArray.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\obj\Debug\ArrayJagged.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\obj\Debug\JaggedArray.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\obj\Debug\JaggedArray.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\JaggedArray\obj\Debug\ArrayJagged.csproj.AssemblyReference.cache

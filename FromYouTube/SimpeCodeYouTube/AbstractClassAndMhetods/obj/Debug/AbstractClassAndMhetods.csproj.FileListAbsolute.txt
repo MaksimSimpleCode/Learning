@@ -1,0 +1,13 @@
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\bin\Debug\AbstractClassAndMhetods.exe.config
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\bin\Debug\AbstractClassAndMhetods.exe
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\bin\Debug\AbstractClassAndMhetods.pdb
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.exe
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\AbstractClassAndMhetods\bin\Debug\AbstractClassAndMhetods.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\AbstractClassAndMhetods\bin\Debug\AbstractClassAndMhetods.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\AbstractClassAndMhetods\bin\Debug\AbstractClassAndMhetods.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\AbstractClassAndMhetods\obj\Debug\AbstractClassAndMhetods.pdb

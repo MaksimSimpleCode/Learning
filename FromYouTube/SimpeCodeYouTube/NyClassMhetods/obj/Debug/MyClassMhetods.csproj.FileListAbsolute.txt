@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\NyClassMhetods\bin\Debug\NyClassMhetods.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\NyClassMhetods\bin\Debug\NyClassMhetods.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\NyClassMhetods\bin\Debug\NyClassMhetods.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\NyClassMhetods\obj\Debug\MyClassMhetods.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\NyClassMhetods\obj\Debug\NyClassMhetods.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\NyClassMhetods\obj\Debug\NyClassMhetods.pdb

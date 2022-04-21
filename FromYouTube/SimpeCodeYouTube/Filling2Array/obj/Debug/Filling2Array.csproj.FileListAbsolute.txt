@@ -1,0 +1,6 @@
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\bin\Debug\Filling2Array.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\bin\Debug\Filling2Array.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\bin\Debug\Filling2Array.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\Filling2Array.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\Filling2Array.exe
+C:\123\Проекты C#\SimpeCodeYouTube\Filling2Array\obj\Debug\Filling2Array.pdb

@@ -1,0 +1,12 @@
+C:\123\Проекты C#\SimpeCodeYouTube\ParamsOptional\bin\Debug\ParamsOptional.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\ParamsOptional\bin\Debug\ParamsOptional.exe
+C:\123\Проекты C#\SimpeCodeYouTube\ParamsOptional\bin\Debug\ParamsOptional.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\ParamsOptional\obj\Debug\ParamsOptional.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\ParamsOptional\obj\Debug\ParamsOptional.exe
+C:\123\Проекты C#\SimpeCodeYouTube\ParamsOptional\obj\Debug\ParamsOptional.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ParamsOptional\bin\Debug\ParamsOptional.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ParamsOptional\bin\Debug\ParamsOptional.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ParamsOptional\bin\Debug\ParamsOptional.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ParamsOptional\obj\Debug\ParamsOptional.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ParamsOptional\obj\Debug\ParamsOptional.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\ParamsOptional\obj\Debug\ParamsOptional.pdb

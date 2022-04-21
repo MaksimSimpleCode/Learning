@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\obj\Debug\Enumm.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\obj\Debug\Enumm.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\bin\Debug\Enumm.exe.config
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\bin\Debug\Enumm.exe
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\bin\Debug\Enumm.pdb
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\obj\Debug\Enumm.exe
+C:\123\Мои документы\Проекты C#\SimpeCodeYouTube\Enumm\obj\Debug\Enumm.pdb

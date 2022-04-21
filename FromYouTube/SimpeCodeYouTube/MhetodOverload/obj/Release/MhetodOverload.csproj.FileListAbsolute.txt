@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\bin\Release\MhetodOverload.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\bin\Release\MhetodOverload.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\bin\Release\MhetodOverload.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\obj\Release\MhetodOverload.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\obj\Release\MhetodOverload.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\MhetodOverload\obj\Release\MhetodOverload.pdb

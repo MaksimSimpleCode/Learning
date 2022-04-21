@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\bin\Release\Method.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\bin\Release\Method.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\bin\Release\Method.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\obj\Release\Methods.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\obj\Release\Method.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\Method\obj\Release\Method.pdb

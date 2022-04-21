@@ -1,0 +1,6 @@
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\2ArrayKeyboard\bin\Release\2ArrayKeyboard.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\2ArrayKeyboard\bin\Release\2ArrayKeyboard.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\2ArrayKeyboard\bin\Release\2ArrayKeyboard.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\2ArrayKeyboard\obj\Release\2ArrayKeyboard.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\2ArrayKeyboard\obj\Release\2ArrayKeyboard.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\2ArrayKeyboard\obj\Release\2ArrayKeyboard.pdb

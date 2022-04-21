@@ -1,0 +1,13 @@
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\bin\Debug\SimpeCodeYouTube.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\bin\Debug\SimpeCodeYouTube.exe
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\bin\Debug\SimpeCodeYouTube.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.exe
+C:\123\Проекты C#\SimpeCodeYouTube\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\SimpeCodeYouTube\bin\Debug\SimpeCodeYouTube.exe.config
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\SimpeCodeYouTube\bin\Debug\SimpeCodeYouTube.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\SimpeCodeYouTube\bin\Debug\SimpeCodeYouTube.pdb
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.exe
+A:\Программирование\C#\Обучение\SimpeCodeYouTube_HOME\SimpeCodeYouTube\obj\Debug\SimpeCodeYouTube.pdb

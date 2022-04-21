@@ -1,0 +1,7 @@
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\bin\Debug\ReferansAndValue.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\bin\Debug\ReferansAndValue.exe
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\bin\Debug\ReferansAndValue.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferansAndValue.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferansAndValue.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferansAndValue.exe
+C:\123\Проекты C#\SimpeCodeYouTube\ReferansAndValue\obj\Debug\ReferansAndValue.pdb

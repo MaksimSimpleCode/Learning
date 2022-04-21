@@ -1,0 +1,7 @@
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.exe.config
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.exe
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\bin\Debug\HwLessons22.pdb
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.csprojAssemblyReference.cache
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.exe
+C:\123\Проекты C#\SimpeCodeYouTube\HwLessons22\obj\Debug\HwLessons22.pdb
