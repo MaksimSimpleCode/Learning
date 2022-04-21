@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Raise an array to a power\obj\Debug\Raise an array to a power.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Raise an array to a power\obj\Debug\Raise an array to a power.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Raise an array to a power\bin\Debug\Raise an array to a power.exe.config
+C:\123\Проекты C#\Praktika\Raise an array to a power\bin\Debug\Raise an array to a power.exe
+C:\123\Проекты C#\Praktika\Raise an array to a power\bin\Debug\Raise an array to a power.pdb
+C:\123\Проекты C#\Praktika\Raise an array to a power\obj\Debug\Raise an array to a power.exe
+C:\123\Проекты C#\Praktika\Raise an array to a power\obj\Debug\Raise an array to a power.pdb

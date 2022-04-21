@@ -1,0 +1,8 @@
+C:\123\Проекты C#\Lesson6\BinareStream\obj\Debug\BinareStream.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson6\BinareStream\obj\Debug\BinareStream.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\BinareStream\bin\Debug\BinareStream.exe.config
+C:\123\Проекты C#\Lesson6\BinareStream\bin\Debug\BinareStream.exe
+C:\123\Проекты C#\Lesson6\BinareStream\bin\Debug\BinareStream.pdb
+C:\123\Проекты C#\Lesson6\BinareStream\obj\Debug\BinareStream.exe
+C:\123\Проекты C#\Lesson6\BinareStream\obj\Debug\BinareStream.pdb
+C:\123\Проекты C#\Lesson6\BinareStream\bin\Debug\data.txt

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\obj\Debug\CarEvents.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\obj\Debug\CarEvents.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\bin\Debug\CarEvents.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\bin\Debug\CarEvents.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\bin\Debug\CarEvents.pdb
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\obj\Debug\CarEvents.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarEvents\obj\Debug\CarEvents.pdb

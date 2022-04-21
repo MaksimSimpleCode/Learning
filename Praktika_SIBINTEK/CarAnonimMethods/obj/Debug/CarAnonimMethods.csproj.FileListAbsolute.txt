@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\obj\Debug\CarAnonimMethods.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\obj\Debug\CarAnonimMethods.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\bin\Debug\CarAnonimMethods.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\bin\Debug\CarAnonimMethods.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\bin\Debug\CarAnonimMethods.pdb
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\obj\Debug\CarAnonimMethods.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarAnonimMethods\obj\Debug\CarAnonimMethods.pdb

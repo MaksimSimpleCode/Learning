@@ -1,0 +1,7 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\obj\Debug\Двумерный массив.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\obj\Debug\Двумерный массив.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\bin\Debug\Двумерный массив.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\bin\Debug\Двумерный массив.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\bin\Debug\Двумерный массив.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\obj\Debug\Двумерный массив.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\Двумерный массив\obj\Debug\Двумерный массив.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Destroy Smace\obj\Debug\Destroy Space.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Destroy Smace\obj\Debug\Destroy Space.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Destroy Smace\bin\Debug\Destroy Smace.exe.config
+C:\123\Проекты C#\Praktika\Destroy Smace\bin\Debug\Destroy Smace.exe
+C:\123\Проекты C#\Praktika\Destroy Smace\bin\Debug\Destroy Smace.pdb
+C:\123\Проекты C#\Praktika\Destroy Smace\obj\Debug\Destroy Smace.exe
+C:\123\Проекты C#\Praktika\Destroy Smace\obj\Debug\Destroy Smace.pdb

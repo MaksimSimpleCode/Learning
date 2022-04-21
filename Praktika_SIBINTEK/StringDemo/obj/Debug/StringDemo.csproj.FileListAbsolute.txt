@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\obj\Debug\StringDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\obj\Debug\StringDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\bin\Debug\StringDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\bin\Debug\StringDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\bin\Debug\StringDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\obj\Debug\StringDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\StringDemo\obj\Debug\StringDemo.pdb

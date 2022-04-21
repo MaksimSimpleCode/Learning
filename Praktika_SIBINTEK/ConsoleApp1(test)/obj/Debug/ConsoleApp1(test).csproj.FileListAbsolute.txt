@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\obj\Debug\ConsoleApp1(test).csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\bin\Debug\ConsoleApp1(test).exe.config
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\bin\Debug\ConsoleApp1(test).exe
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\bin\Debug\ConsoleApp1(test).pdb
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\obj\Debug\ConsoleApp1(test).exe
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\obj\Debug\ConsoleApp1(test).pdb
+C:\123\Проекты C#\Praktika\ConsoleApp1(test)\obj\Debug\ConsoleApp1(test).csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\123\Проекты C#\Lesson5\Zayava\obj\Debug\Zayava.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\Zayava\obj\Debug\Zayava.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Zayava\bin\Debug\shablon.txt
+C:\123\Проекты C#\Lesson5\Zayava\bin\Debug\Zayava.exe.config
+C:\123\Проекты C#\Lesson5\Zayava\bin\Debug\Zayava.exe
+C:\123\Проекты C#\Lesson5\Zayava\bin\Debug\Zayava.pdb
+C:\123\Проекты C#\Lesson5\Zayava\obj\Debug\Zayava.exe
+C:\123\Проекты C#\Lesson5\Zayava\obj\Debug\Zayava.pdb

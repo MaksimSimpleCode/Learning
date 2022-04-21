@@ -1,0 +1,10 @@
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.Form1.resources
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.cache
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson7\Lesson7\bin\Debug\Lesson7.exe.config
+C:\123\Проекты C#\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+C:\123\Проекты C#\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+C:\123\Проекты C#\Lesson7\Lesson7\obj\Debug\Lesson7.pdb

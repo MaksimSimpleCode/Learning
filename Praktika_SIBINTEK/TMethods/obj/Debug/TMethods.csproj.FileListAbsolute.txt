@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\obj\Debug\TMethods.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\obj\Debug\TMethods.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\bin\Debug\TMethods.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\bin\Debug\TMethods.exe
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\bin\Debug\TMethods.pdb
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\obj\Debug\TMethods.exe
+C:\123\Мои документы\Проекты C#\Praktika\TMethods\obj\Debug\TMethods.pdb

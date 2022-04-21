@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Timer\bin\Debug\Timer.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Timer\bin\Debug\Timer.exe
+C:\123\Мои документы\Проекты C#\Praktika\Timer\bin\Debug\Timer.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Timer\obj\Debug\Timer.exe
+C:\123\Мои документы\Проекты C#\Praktika\Timer\obj\Debug\Timer.pdb

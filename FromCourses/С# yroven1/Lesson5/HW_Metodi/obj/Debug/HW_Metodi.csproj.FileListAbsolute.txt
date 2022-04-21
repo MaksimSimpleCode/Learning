@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson5\HW_Metodi\obj\Debug\HW_Metodi.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\HW_Metodi\bin\Debug\HW_Metodi.exe.config
+C:\123\Проекты C#\Lesson5\HW_Metodi\bin\Debug\HW_Metodi.exe
+C:\123\Проекты C#\Lesson5\HW_Metodi\bin\Debug\HW_Metodi.pdb
+C:\123\Проекты C#\Lesson5\HW_Metodi\obj\Debug\HW_Metodi.exe
+C:\123\Проекты C#\Lesson5\HW_Metodi\obj\Debug\HW_Metodi.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\obj\Debug\TryCatch.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\bin\Debug\TryCatch.exe.config
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\bin\Debug\TryCatch.exe
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\bin\Debug\TryCatch.pdb
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\obj\Debug\TryCatch.exe
+C:\123\Проекты C#\Djon Sharp Book\TryCatch\obj\Debug\TryCatch.pdb

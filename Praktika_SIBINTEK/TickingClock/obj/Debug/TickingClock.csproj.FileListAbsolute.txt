@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\obj\Debug\TickingClock.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\obj\Debug\TickingClock.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\bin\Debug\TickingClock.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\bin\Debug\TickingClock.exe
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\bin\Debug\TickingClock.pdb
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\obj\Debug\TickingClock.exe
+C:\123\Мои документы\Проекты C#\Praktika\TickingClock\obj\Debug\TickingClock.pdb

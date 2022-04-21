@@ -1,0 +1,10 @@
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.exe.config
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotDAL.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotDAL.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csproj.CopyComplete
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.pdb

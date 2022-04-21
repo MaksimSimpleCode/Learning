@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\HW_TryCatch\obj\Debug\HW_TryCatch.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\HW_TryCatch\bin\Debug\HW_TryCatch.exe.config
+C:\123\Проекты C#\Lesson3\HW_TryCatch\bin\Debug\HW_TryCatch.exe
+C:\123\Проекты C#\Lesson3\HW_TryCatch\bin\Debug\HW_TryCatch.pdb
+C:\123\Проекты C#\Lesson3\HW_TryCatch\obj\Debug\HW_TryCatch.exe
+C:\123\Проекты C#\Lesson3\HW_TryCatch\obj\Debug\HW_TryCatch.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\obj\Debug\ExtMethods.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\obj\Debug\ExtMethods.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\bin\Debug\ExtMethods.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\bin\Debug\ExtMethods.exe
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\bin\Debug\ExtMethods.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\obj\Debug\ExtMethods.exe
+C:\123\Мои документы\Проекты C#\Praktika\ExtMethods\obj\Debug\ExtMethods.pdb

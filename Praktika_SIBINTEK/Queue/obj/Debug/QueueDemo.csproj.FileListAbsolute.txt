@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\Queue\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Queue\bin\Debug\Queue.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Queue\bin\Debug\Queue.exe
+C:\123\Мои документы\Проекты C#\Praktika\Queue\bin\Debug\Queue.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Queue\obj\Debug\Queue.exe
+C:\123\Мои документы\Проекты C#\Praktika\Queue\obj\Debug\Queue.pdb

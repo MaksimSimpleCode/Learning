@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson5\Regular\obj\Debug\Regular.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\Regular\obj\Debug\Regular.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Regular\bin\Debug\Regular.exe.config
+C:\123\Проекты C#\Lesson5\Regular\bin\Debug\Regular.exe
+C:\123\Проекты C#\Lesson5\Regular\bin\Debug\Regular.pdb
+C:\123\Проекты C#\Lesson5\Regular\obj\Debug\Regular.exe
+C:\123\Проекты C#\Lesson5\Regular\obj\Debug\Regular.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1", "Lesson1\Lesson1.csproj", "{1B53D567-9CC3-4BA1-92D2-0006C86A26C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkLesson1", "HomeWorkLesson1\HomeWorkLesson1.csproj", "{5B6DBC2F-E07C-4878-96FF-18B0050223C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkLesson1_2", "HomeW_L1(peregruzka)\HomeWorkLesson1_2.csproj", "{DB76F2F0-94E7-4BA8-B32F-912C828C2D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorklesson1_3", "HomeWorklesson1_3\HomeWorklesson1_3.csproj", "{952F694D-B979-4018-9576-34EEA9608BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkLesson1_4", "HomeWorkLesson1_4\HomeWorkLesson1_4.csproj", "{8CF3F438-73B8-4846-A9D6-997E80E4737D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkLesson1_5", "HomeWorkLesson1_5\HomeWorkLesson1_5.csproj", "{0164D255-3E4E-4B4F-B2EE-AEEA77076B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C493E46A-9A7B-4A80-94EE-3940BCA90CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B53D567-9CC3-4BA1-92D2-0006C86A26C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B53D567-9CC3-4BA1-92D2-0006C86A26C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B53D567-9CC3-4BA1-92D2-0006C86A26C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B53D567-9CC3-4BA1-92D2-0006C86A26C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6DBC2F-E07C-4878-96FF-18B0050223C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6DBC2F-E07C-4878-96FF-18B0050223C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6DBC2F-E07C-4878-96FF-18B0050223C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6DBC2F-E07C-4878-96FF-18B0050223C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB76F2F0-94E7-4BA8-B32F-912C828C2D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB76F2F0-94E7-4BA8-B32F-912C828C2D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB76F2F0-94E7-4BA8-B32F-912C828C2D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB76F2F0-94E7-4BA8-B32F-912C828C2D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952F694D-B979-4018-9576-34EEA9608BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952F694D-B979-4018-9576-34EEA9608BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952F694D-B979-4018-9576-34EEA9608BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952F694D-B979-4018-9576-34EEA9608BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF3F438-73B8-4846-A9D6-997E80E4737D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF3F438-73B8-4846-A9D6-997E80E4737D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF3F438-73B8-4846-A9D6-997E80E4737D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF3F438-73B8-4846-A9D6-997E80E4737D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0164D255-3E4E-4B4F-B2EE-AEEA77076B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0164D255-3E4E-4B4F-B2EE-AEEA77076B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0164D255-3E4E-4B4F-B2EE-AEEA77076B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0164D255-3E4E-4B4F-B2EE-AEEA77076B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C493E46A-9A7B-4A80-94EE-3940BCA90CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C493E46A-9A7B-4A80-94EE-3940BCA90CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C493E46A-9A7B-4A80-94EE-3940BCA90CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C493E46A-9A7B-4A80-94EE-3940BCA90CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5820EB67-069F-456C-AACF-3BFCB036855A}
+	EndGlobalSection
+EndGlobal

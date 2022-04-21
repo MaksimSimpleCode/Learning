@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\obj\Debug\IComparableDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\obj\Debug\IComparableDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\bin\Debug\IComparableDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\bin\Debug\IComparableDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\bin\Debug\IComparableDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\obj\Debug\IComparableDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\IComparableDemo\obj\Debug\IComparableDemo.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zFirYjZMVlrR2lF32a1PM7JS4RICWX6Yun/5TnLSi3g1/iKN9N8NF965tJO2LmT8HaMjc6bFU04nM7lD5Oqow==",
+  "success": true,
+  "projectFilePath": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\BankLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgf_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mgf_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

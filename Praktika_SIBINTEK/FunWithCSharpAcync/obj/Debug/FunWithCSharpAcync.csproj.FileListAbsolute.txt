@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\obj\Debug\FunWithCSharpAcync.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\obj\Debug\FunWithCSharpAcync.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\bin\Debug\FunWithCSharpAcync.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\bin\Debug\FunWithCSharpAcync.exe
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\bin\Debug\FunWithCSharpAcync.pdb
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\obj\Debug\FunWithCSharpAcync.exe
+C:\123\Мои документы\Проекты C#\Praktika\FunWithCSharpAcync\obj\Debug\FunWithCSharpAcync.pdb

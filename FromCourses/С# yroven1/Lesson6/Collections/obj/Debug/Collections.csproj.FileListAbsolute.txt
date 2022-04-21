@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson6\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson6\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\Collections\bin\Debug\Collections.exe.config
+C:\123\Проекты C#\Lesson6\Collections\bin\Debug\Collections.exe
+C:\123\Проекты C#\Lesson6\Collections\bin\Debug\Collections.pdb
+C:\123\Проекты C#\Lesson6\Collections\obj\Debug\Collections.exe
+C:\123\Проекты C#\Lesson6\Collections\obj\Debug\Collections.pdb

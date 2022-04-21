@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoOpen\bin\Debug\MyFileInfoOpen.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoOpen\bin\Debug\MyFileInfoOpen.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoOpen\bin\Debug\MyFileInfoOpen.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoOpen\obj\Debug\MyFileInfoOpen.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoOpen\obj\Debug\MyFileInfoOpen.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoOpen\obj\Debug\MyFileInfoOpen.pdb

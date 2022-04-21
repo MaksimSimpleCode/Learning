@@ -1,0 +1,6 @@
+C:\123\Проекты C#\MyProject\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\123\Проекты C#\MyProject\GuessNumber\bin\Debug\GuessNumber.exe
+C:\123\Проекты C#\MyProject\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\123\Проекты C#\MyProject\GuessNumber\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\MyProject\GuessNumber\obj\Debug\GuessNumber.exe
+C:\123\Проекты C#\MyProject\GuessNumber\obj\Debug\GuessNumber.pdb

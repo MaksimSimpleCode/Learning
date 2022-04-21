@@ -1,0 +1,29 @@
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.deps.json
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.json
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.dev.json
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.dll
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.pdb
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfoInputs.cache
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfo.cs
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.dll
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.pdb
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankLibrary.dll
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankLibrary.pdb
+C:\123\Мои документы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.CopyComplete
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.deps.json
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.json
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.dev.json
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.dll
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.pdb
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankLibrary.dll
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankLibrary.pdb
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.AssemblyReference.cache
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfoInputs.cache
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfo.cs
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.CoreCompileInputs.cache
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.CopyComplete
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.dll
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.pdb
+D:\Мои файлы\ИК СИБИНТЕК\Мои файлы\Проекты C#\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.genruntimeconfig.cache

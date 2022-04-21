@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\obj\Debug\Djon Sharp Book.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\obj\Debug\Djon Sharp Book.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\bin\Debug\Djon Sharp Book.exe.config
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\bin\Debug\Djon Sharp Book.exe
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\bin\Debug\Djon Sharp Book.pdb
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\obj\Debug\Djon Sharp Book.exe
+C:\123\Проекты C#\Djon Sharp Book\Djon Sharp Book\obj\Debug\Djon Sharp Book.pdb

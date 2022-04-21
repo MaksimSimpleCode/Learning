@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

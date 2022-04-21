@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\bin\Debug\StringBuilderPraktika.exe.config
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\bin\Debug\StringBuilderPraktika.exe
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\bin\Debug\StringBuilderPraktika.pdb
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\obj\Debug\StringBuilderPraktika.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\obj\Debug\StringBuilderPraktika.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\obj\Debug\StringBuilderPraktika.exe
+C:\123\Проекты C#\Praktika\StringBuilderPraktika\obj\Debug\StringBuilderPraktika.pdb

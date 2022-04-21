@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\Tabul\obj\Debug\Tabul.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\Tabul\bin\Debug\Tabul.exe.config
+C:\123\Проекты C#\Lesson3\Tabul\bin\Debug\Tabul.exe
+C:\123\Проекты C#\Lesson3\Tabul\bin\Debug\Tabul.pdb
+C:\123\Проекты C#\Lesson3\Tabul\obj\Debug\Tabul.exe
+C:\123\Проекты C#\Lesson3\Tabul\obj\Debug\Tabul.pdb

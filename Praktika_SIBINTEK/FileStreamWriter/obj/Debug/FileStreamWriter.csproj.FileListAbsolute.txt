@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\bin\Debug\FileStreamWriter.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\bin\Debug\FileStreamWriter.exe
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\bin\Debug\FileStreamWriter.pdb
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\obj\Debug\FileStreamWriter.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\obj\Debug\FileStreamWriter.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\obj\Debug\FileStreamWriter.exe
+C:\123\Мои документы\Проекты C#\Praktika\FileStreamWriter\obj\Debug\FileStreamWriter.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\BankCalculate\obj\Debug\BankCalculate.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\BankCalculate\obj\Debug\BankCalculate.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\BankCalculate\bin\Debug\BankCalculate.exe.config
+C:\123\Проекты C#\Praktika\BankCalculate\bin\Debug\BankCalculate.exe
+C:\123\Проекты C#\Praktika\BankCalculate\bin\Debug\BankCalculate.pdb
+C:\123\Проекты C#\Praktika\BankCalculate\obj\Debug\BankCalculate.exe
+C:\123\Проекты C#\Praktika\BankCalculate\obj\Debug\BankCalculate.pdb

@@ -1,0 +1,14 @@
+C:\123\Проекты C#\Praktika\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\List\bin\Debug\List.exe.config
+C:\123\Проекты C#\Praktika\List\bin\Debug\List.exe
+C:\123\Проекты C#\Praktika\List\bin\Debug\List.pdb
+C:\123\Проекты C#\Praktika\List\obj\Debug\List.exe
+C:\123\Проекты C#\Praktika\List\obj\Debug\List.pdb
+C:\123\Мои документы\Проекты C#\Praktika\List\bin\Debug\List.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\List\bin\Debug\List.exe
+C:\123\Мои документы\Проекты C#\Praktika\List\bin\Debug\List.pdb
+C:\123\Мои документы\Проекты C#\Praktika\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\List\obj\Debug\List.exe
+C:\123\Мои документы\Проекты C#\Praktika\List\obj\Debug\List.pdb

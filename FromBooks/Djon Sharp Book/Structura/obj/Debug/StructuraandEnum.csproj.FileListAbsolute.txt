@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Djon Sharp Book\Structura\bin\Debug\Structura.exe.config
+C:\123\Проекты C#\Djon Sharp Book\Structura\bin\Debug\Structura.exe
+C:\123\Проекты C#\Djon Sharp Book\Structura\bin\Debug\Structura.pdb
+C:\123\Проекты C#\Djon Sharp Book\Structura\obj\Debug\StructuraandEnum.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\Structura\obj\Debug\Structura.exe
+C:\123\Проекты C#\Djon Sharp Book\Structura\obj\Debug\Structura.pdb

@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\Redirection\bin\Debug\Redirection.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Redirection\bin\Debug\Redirection.exe
+C:\123\Мои документы\Проекты C#\Praktika\Redirection\bin\Debug\Redirection.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Redirection\obj\Debug\Redirection.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Redirection\obj\Debug\Redirection.exe
+C:\123\Мои документы\Проекты C#\Praktika\Redirection\obj\Debug\Redirection.pdb

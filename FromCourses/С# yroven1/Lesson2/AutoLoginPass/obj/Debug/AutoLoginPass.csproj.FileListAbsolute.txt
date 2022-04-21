@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson2\AutoLoginPass\obj\Debug\AutoLoginPass.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson2\AutoLoginPass\obj\Debug\AutoLoginPass.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson2\AutoLoginPass\bin\Debug\AutoLoginPass.exe.config
+C:\123\Проекты C#\Lesson2\AutoLoginPass\bin\Debug\AutoLoginPass.exe
+C:\123\Проекты C#\Lesson2\AutoLoginPass\bin\Debug\AutoLoginPass.pdb
+C:\123\Проекты C#\Lesson2\AutoLoginPass\obj\Debug\AutoLoginPass.exe
+C:\123\Проекты C#\Lesson2\AutoLoginPass\obj\Debug\AutoLoginPass.pdb

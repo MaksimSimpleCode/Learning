@@ -1,0 +1,1 @@
+C:\123\Мои документы\Проекты C#\Praktika\GenericIComparableDemo\obj\Debug\GenericIComparableDemo.csproj.CoreCompileInputs.cache

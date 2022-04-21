@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\CreateMyDirectory\bin\Debug\CreateMyDirectory.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\CreateMyDirectory\bin\Debug\CreateMyDirectory.exe
+C:\123\Мои документы\Проекты C#\Praktika\CreateMyDirectory\bin\Debug\CreateMyDirectory.pdb
+C:\123\Мои документы\Проекты C#\Praktika\CreateMyDirectory\obj\Debug\CreateMyDirectory.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\CreateMyDirectory\obj\Debug\CreateMyDirectory.exe
+C:\123\Мои документы\Проекты C#\Praktika\CreateMyDirectory\obj\Debug\CreateMyDirectory.pdb

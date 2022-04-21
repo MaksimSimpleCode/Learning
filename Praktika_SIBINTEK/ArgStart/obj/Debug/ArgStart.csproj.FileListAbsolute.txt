@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\obj\Debug\ArgStart.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\obj\Debug\ArgStart.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\bin\Debug\ArgStart.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\bin\Debug\ArgStart.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\bin\Debug\ArgStart.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\obj\Debug\ArgStart.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArgStart\obj\Debug\ArgStart.pdb

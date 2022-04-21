@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\obj\Debug\CarDelegate.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\bin\Debug\CarDelegate.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\bin\Debug\CarDelegate.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\bin\Debug\CarDelegate.pdb
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\obj\Debug\CarDelegate.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegate\obj\Debug\CarDelegate.pdb

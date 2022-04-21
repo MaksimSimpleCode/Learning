@@ -1,0 +1,15 @@
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\AutoLotDAL.dll.config
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\EntityFramework.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\EntityFramework.SqlServer.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\EntityFramework.xml
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\bin\Debug\EntityFramework.SqlServer.xml
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CopyComplete
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.Migrations.InitialCreate.resources
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.GenerateResource.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotDAL\obj\Debug\AutoLotDAL.Migrations.Initial.resources

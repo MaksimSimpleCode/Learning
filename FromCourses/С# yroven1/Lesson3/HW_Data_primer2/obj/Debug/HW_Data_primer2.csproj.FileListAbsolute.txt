@@ -1,0 +1,8 @@
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\obj\Debug\HW_Data_primer2.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\obj\Debug\HW_Data_primer2.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\bin\Debug\Text.txt
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\bin\Debug\HW_Data_primer2.exe.config
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\bin\Debug\HW_Data_primer2.exe
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\bin\Debug\HW_Data_primer2.pdb
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\obj\Debug\HW_Data_primer2.exe
+C:\123\Проекты C#\Lesson3\HW_Data_primer2\obj\Debug\HW_Data_primer2.pdb

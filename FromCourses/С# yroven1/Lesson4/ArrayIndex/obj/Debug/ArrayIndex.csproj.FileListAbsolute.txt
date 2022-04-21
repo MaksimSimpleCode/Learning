@@ -1,0 +1,6 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayIndex\obj\Debug\ArrayIndex.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayIndex\bin\Debug\ArrayIndex.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayIndex\bin\Debug\ArrayIndex.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayIndex\bin\Debug\ArrayIndex.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayIndex\obj\Debug\ArrayIndex.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayIndex\obj\Debug\ArrayIndex.pdb

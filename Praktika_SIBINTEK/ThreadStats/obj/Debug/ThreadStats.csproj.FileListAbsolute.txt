@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\bin\Debug\ThreadStats.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\bin\Debug\ThreadStats.exe
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\bin\Debug\ThreadStats.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\obj\Debug\ThreadStats.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\obj\Debug\ThreadStats.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\obj\Debug\ThreadStats.exe
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStats\obj\Debug\ThreadStats.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Hello\Hello\bin\Debug\Hello.exe.config
+C:\123\Проекты C#\Hello\Hello\bin\Debug\Hello.exe
+C:\123\Проекты C#\Hello\Hello\bin\Debug\Hello.pdb
+C:\123\Проекты C#\Hello\Hello\obj\Debug\Hello.exe
+C:\123\Проекты C#\Hello\Hello\obj\Debug\Hello.pdb
+C:\123\Проекты C#\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache

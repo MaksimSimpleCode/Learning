@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\ClassPoint\obj\Debug\ClassPoint.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\ClassPoint\bin\Debug\ClassPoint.exe.config
+C:\123\Проекты C#\Lesson3\ClassPoint\bin\Debug\ClassPoint.exe
+C:\123\Проекты C#\Lesson3\ClassPoint\bin\Debug\ClassPoint.pdb
+C:\123\Проекты C#\Lesson3\ClassPoint\obj\Debug\ClassPoint.exe
+C:\123\Проекты C#\Lesson3\ClassPoint\obj\Debug\ClassPoint.pdb

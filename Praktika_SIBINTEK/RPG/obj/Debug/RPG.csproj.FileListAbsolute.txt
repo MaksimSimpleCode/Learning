@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\RPG\bin\Debug\RPG.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\RPG\bin\Debug\RPG.exe
+C:\123\Мои документы\Проекты C#\Praktika\RPG\bin\Debug\RPG.pdb
+C:\123\Мои документы\Проекты C#\Praktika\RPG\obj\Debug\RPG.exe
+C:\123\Мои документы\Проекты C#\Praktika\RPG\obj\Debug\RPG.pdb

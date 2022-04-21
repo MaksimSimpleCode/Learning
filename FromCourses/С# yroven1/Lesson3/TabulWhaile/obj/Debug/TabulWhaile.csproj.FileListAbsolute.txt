@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\TabulWhaile\obj\Debug\TabulWhaile.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\TabulWhaile\bin\Debug\TabulWhaile.exe.config
+C:\123\Проекты C#\Lesson3\TabulWhaile\bin\Debug\TabulWhaile.exe
+C:\123\Проекты C#\Lesson3\TabulWhaile\bin\Debug\TabulWhaile.pdb
+C:\123\Проекты C#\Lesson3\TabulWhaile\obj\Debug\TabulWhaile.exe
+C:\123\Проекты C#\Lesson3\TabulWhaile\obj\Debug\TabulWhaile.pdb

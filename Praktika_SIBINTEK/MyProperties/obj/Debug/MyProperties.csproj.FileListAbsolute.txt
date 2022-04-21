@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\obj\Debug\MyProperties.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\obj\Debug\MyProperties.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\bin\Debug\MyProperties.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\bin\Debug\MyProperties.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\bin\Debug\MyProperties.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\obj\Debug\MyProperties.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyProperties\obj\Debug\MyProperties.pdb

@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\HW_ClassComplex\obj\Debug\HW_ClassComplex.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\HW_ClassComplex\bin\Debug\HW_ClassComplex.exe.config
+C:\123\Проекты C#\Lesson3\HW_ClassComplex\bin\Debug\HW_ClassComplex.exe
+C:\123\Проекты C#\Lesson3\HW_ClassComplex\bin\Debug\HW_ClassComplex.pdb
+C:\123\Проекты C#\Lesson3\HW_ClassComplex\obj\Debug\HW_ClassComplex.exe
+C:\123\Проекты C#\Lesson3\HW_ClassComplex\obj\Debug\HW_ClassComplex.pdb

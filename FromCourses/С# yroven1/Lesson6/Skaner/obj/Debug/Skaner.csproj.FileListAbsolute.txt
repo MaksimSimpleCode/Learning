@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson6\Skaner\obj\Debug\Skaner.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson6\Skaner\obj\Debug\Skaner.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\Skaner\bin\Debug\Skaner.exe.config
+C:\123\Проекты C#\Lesson6\Skaner\bin\Debug\Skaner.exe
+C:\123\Проекты C#\Lesson6\Skaner\bin\Debug\Skaner.pdb
+C:\123\Проекты C#\Lesson6\Skaner\obj\Debug\Skaner.exe
+C:\123\Проекты C#\Lesson6\Skaner\obj\Debug\Skaner.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson2\HW2_5\obj\Debug\HW2_5.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson2\HW2_5\bin\Debug\HW2_5.exe.config
+C:\123\Проекты C#\Lesson2\HW2_5\bin\Debug\HW2_5.exe
+C:\123\Проекты C#\Lesson2\HW2_5\bin\Debug\HW2_5.pdb
+C:\123\Проекты C#\Lesson2\HW2_5\obj\Debug\HW2_5.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson2\HW2_5\obj\Debug\HW2_5.exe
+C:\123\Проекты C#\Lesson2\HW2_5\obj\Debug\HW2_5.pdb

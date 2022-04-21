@@ -1,0 +1,7 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\obj\Debug\Частотный массив.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\obj\Debug\Частотный массив.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\bin\Debug\Частотный массив.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\bin\Debug\Частотный массив.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\bin\Debug\Частотный массив.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\obj\Debug\Частотный массив.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\Частотный массив\obj\Debug\Частотный массив.pdb

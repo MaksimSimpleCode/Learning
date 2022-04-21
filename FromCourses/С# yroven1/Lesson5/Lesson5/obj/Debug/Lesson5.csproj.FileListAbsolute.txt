@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson5\Lesson5\obj\Debug\Lesson5.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+C:\123\Проекты C#\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+C:\123\Проекты C#\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+C:\123\Проекты C#\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+C:\123\Проекты C#\Lesson5\Lesson5\obj\Debug\Lesson5.pdb

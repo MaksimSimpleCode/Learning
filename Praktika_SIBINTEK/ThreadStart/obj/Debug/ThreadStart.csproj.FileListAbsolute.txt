@@ -1,0 +1,13 @@
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\obj\Debug\ThreadStart.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\obj\Debug\ThreadStart.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\bin\Debug\ThreadStart.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\bin\Debug\ThreadStart.exe
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\bin\Debug\ThreadStart.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\obj\Debug\ThreadStart.exe
+C:\123\Мои документы\Проекты C#\Praktika\ThreadStart\obj\Debug\ThreadStart.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\ThreadStart\bin\Debug\ThreadStart.exe.config
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\ThreadStart\bin\Debug\ThreadStart.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\ThreadStart\bin\Debug\ThreadStart.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\ThreadStart\obj\Debug\ThreadStart.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\ThreadStart\obj\Debug\ThreadStart.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\ThreadStart\obj\Debug\ThreadStart.pdb

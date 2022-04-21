@@ -1,0 +1,7 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\obj\Debug\ArrayArray.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\obj\Debug\ArrayArray.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\bin\Debug\ArrayArray.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\bin\Debug\ArrayArray.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\bin\Debug\ArrayArray.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\obj\Debug\ArrayArray.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayArray\obj\Debug\ArrayArray.pdb

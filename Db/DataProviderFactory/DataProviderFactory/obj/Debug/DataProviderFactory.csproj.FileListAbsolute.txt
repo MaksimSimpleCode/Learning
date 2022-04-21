@@ -1,0 +1,7 @@
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe.config
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.pdb

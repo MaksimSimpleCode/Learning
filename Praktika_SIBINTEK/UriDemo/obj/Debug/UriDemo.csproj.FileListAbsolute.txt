@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\UriDemo\obj\Debug\UriDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\UriDemo\bin\Debug\UriDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\UriDemo\bin\Debug\UriDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\UriDemo\bin\Debug\UriDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\UriDemo\obj\Debug\UriDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\UriDemo\obj\Debug\UriDemo.pdb

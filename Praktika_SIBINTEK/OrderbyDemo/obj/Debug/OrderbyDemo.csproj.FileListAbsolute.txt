@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\OrderbyDemo\obj\Debug\OrderbyDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\OrderbyDemo\bin\Debug\OrderbyDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\OrderbyDemo\bin\Debug\OrderbyDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\OrderbyDemo\bin\Debug\OrderbyDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\OrderbyDemo\obj\Debug\OrderbyDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\OrderbyDemo\obj\Debug\OrderbyDemo.pdb

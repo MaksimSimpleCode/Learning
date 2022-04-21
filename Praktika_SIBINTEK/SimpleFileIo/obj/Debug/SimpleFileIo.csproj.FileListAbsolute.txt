@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\SimpleFileIo\bin\Debug\SimpleFileIo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SimpleFileIo\bin\Debug\SimpleFileIo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleFileIo\bin\Debug\SimpleFileIo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SimpleFileIo\obj\Debug\SimpleFileIo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleFileIo\obj\Debug\SimpleFileIo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleFileIo\obj\Debug\SimpleFileIo.pdb

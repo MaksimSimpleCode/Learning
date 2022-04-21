@@ -1,0 +1,8 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\obj\Debug\ArrayFail.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\obj\Debug\ArrayFail.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\bin\Debug\data.txt
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\bin\Debug\ArrayFail.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\bin\Debug\ArrayFail.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\bin\Debug\ArrayFail.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\obj\Debug\ArrayFail.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayFail\obj\Debug\ArrayFail.pdb

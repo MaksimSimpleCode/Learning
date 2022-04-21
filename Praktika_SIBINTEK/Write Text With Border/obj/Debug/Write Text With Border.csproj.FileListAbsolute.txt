@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Write Text With Border\obj\Debug\Write Text With Border.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Write Text With Border\bin\Debug\Write Text With Border.exe.config
+C:\123\Проекты C#\Praktika\Write Text With Border\bin\Debug\Write Text With Border.exe
+C:\123\Проекты C#\Praktika\Write Text With Border\bin\Debug\Write Text With Border.pdb
+C:\123\Проекты C#\Praktika\Write Text With Border\obj\Debug\Write Text With Border.exe
+C:\123\Проекты C#\Praktika\Write Text With Border\obj\Debug\Write Text With Border.pdb
+C:\123\Проекты C#\Praktika\Write Text With Border\obj\Debug\Write Text With Border.csprojAssemblyReference.cache

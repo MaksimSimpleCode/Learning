@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Array Praktika\obj\Debug\Array Praktika.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Array Praktika\obj\Debug\Array Praktika.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Array Praktika\bin\Debug\Array Praktika.exe.config
+C:\123\Проекты C#\Praktika\Array Praktika\bin\Debug\Array Praktika.exe
+C:\123\Проекты C#\Praktika\Array Praktika\bin\Debug\Array Praktika.pdb
+C:\123\Проекты C#\Praktika\Array Praktika\obj\Debug\Array Praktika.exe
+C:\123\Проекты C#\Praktika\Array Praktika\obj\Debug\Array Praktika.pdb

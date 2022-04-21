@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\bin\Debug\Inheritance.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\bin\Debug\Inheritance.exe
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\bin\Debug\Inheritance.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\obj\Debug\Inheritance.exe
+C:\123\Мои документы\Проекты C#\Praktika\Inheritance\obj\Debug\Inheritance.pdb

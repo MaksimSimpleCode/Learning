@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\MoreThreads\obj\Debug\MoreThreads.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MoreThreads\bin\Debug\MoreThreads.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MoreThreads\bin\Debug\MoreThreads.exe
+C:\123\Мои документы\Проекты C#\Praktika\MoreThreads\bin\Debug\MoreThreads.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MoreThreads\obj\Debug\MoreThreads.exe
+C:\123\Мои документы\Проекты C#\Praktika\MoreThreads\obj\Debug\MoreThreads.pdb

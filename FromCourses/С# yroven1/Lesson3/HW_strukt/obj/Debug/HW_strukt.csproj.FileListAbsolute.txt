@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson3\HW_strukt\obj\Debug\HW_strukt.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson3\HW_strukt\obj\Debug\HW_strukt.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\HW_strukt\bin\Debug\HW_strukt.exe.config
+C:\123\Проекты C#\Lesson3\HW_strukt\bin\Debug\HW_strukt.exe
+C:\123\Проекты C#\Lesson3\HW_strukt\bin\Debug\HW_strukt.pdb
+C:\123\Проекты C#\Lesson3\HW_strukt\obj\Debug\HW_strukt.exe
+C:\123\Проекты C#\Lesson3\HW_strukt\obj\Debug\HW_strukt.pdb

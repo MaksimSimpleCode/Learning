@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\obj\Debug\StackDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\bin\Debug\StackDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\bin\Debug\StackDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\bin\Debug\StackDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\obj\Debug\StackDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\StackDemo\obj\Debug\StackDemo.pdb

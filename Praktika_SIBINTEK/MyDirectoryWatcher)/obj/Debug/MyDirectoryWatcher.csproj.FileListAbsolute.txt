@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\obj\Debug\MyDirectoryWatcher.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\obj\Debug\MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\bin\Debug\MyDirectoryWatcher).exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\bin\Debug\MyDirectoryWatcher).exe
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\bin\Debug\MyDirectoryWatcher).pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\obj\Debug\MyDirectoryWatcher).exe
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryWatcher)\obj\Debug\MyDirectoryWatcher).pdb

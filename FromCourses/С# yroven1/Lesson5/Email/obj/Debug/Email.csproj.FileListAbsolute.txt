@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson5\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Email\bin\Debug\Email.exe.config
+C:\123\Проекты C#\Lesson5\Email\bin\Debug\Email.exe
+C:\123\Проекты C#\Lesson5\Email\bin\Debug\Email.pdb
+C:\123\Проекты C#\Lesson5\Email\obj\Debug\Email.exe
+C:\123\Проекты C#\Lesson5\Email\obj\Debug\Email.pdb

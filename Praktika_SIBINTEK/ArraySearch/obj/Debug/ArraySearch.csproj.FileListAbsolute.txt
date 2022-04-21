@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\obj\Debug\ArraySearch.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\obj\Debug\ArraySearch.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\bin\Debug\ArraySearch.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\bin\Debug\ArraySearch.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\bin\Debug\ArraySearch.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\obj\Debug\ArraySearch.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArraySearch\obj\Debug\ArraySearch.pdb

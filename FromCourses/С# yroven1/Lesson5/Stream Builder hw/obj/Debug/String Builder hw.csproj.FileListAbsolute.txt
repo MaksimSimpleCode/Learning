@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson5\Stream Builder hw\obj\Debug\String Builder hw.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\Stream Builder hw\obj\Debug\String Builder hw.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Stream Builder hw\bin\Debug\Stream Builder hw.exe.config
+C:\123\Проекты C#\Lesson5\Stream Builder hw\bin\Debug\Stream Builder hw.exe
+C:\123\Проекты C#\Lesson5\Stream Builder hw\bin\Debug\Stream Builder hw.pdb
+C:\123\Проекты C#\Lesson5\Stream Builder hw\obj\Debug\Stream Builder hw.exe
+C:\123\Проекты C#\Lesson5\Stream Builder hw\obj\Debug\Stream Builder hw.pdb

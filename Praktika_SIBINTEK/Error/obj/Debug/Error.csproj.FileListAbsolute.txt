@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Error\bin\Debug\Error.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Error\bin\Debug\Error.exe
+C:\123\Мои документы\Проекты C#\Praktika\Error\bin\Debug\Error.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Error\obj\Debug\Error.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Error\obj\Debug\Error.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Error\obj\Debug\Error.exe
+C:\123\Мои документы\Проекты C#\Praktika\Error\obj\Debug\Error.pdb

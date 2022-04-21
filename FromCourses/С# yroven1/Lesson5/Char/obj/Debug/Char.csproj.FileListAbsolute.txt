@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson5\Char\obj\Debug\Char.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\Char\obj\Debug\Char.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Char\bin\Debug\Char.exe.config
+C:\123\Проекты C#\Lesson5\Char\bin\Debug\Char.exe
+C:\123\Проекты C#\Lesson5\Char\bin\Debug\Char.pdb
+C:\123\Проекты C#\Lesson5\Char\obj\Debug\Char.exe
+C:\123\Проекты C#\Lesson5\Char\obj\Debug\Char.pdb

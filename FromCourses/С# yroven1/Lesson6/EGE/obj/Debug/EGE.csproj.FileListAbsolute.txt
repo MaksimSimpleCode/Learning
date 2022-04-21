@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson6\EGE\obj\Debug\EGE.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson6\EGE\obj\Debug\EGE.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\EGE\bin\Debug\EGE.exe.config
+C:\123\Проекты C#\Lesson6\EGE\bin\Debug\EGE.exe
+C:\123\Проекты C#\Lesson6\EGE\bin\Debug\EGE.pdb
+C:\123\Проекты C#\Lesson6\EGE\obj\Debug\EGE.exe
+C:\123\Проекты C#\Lesson6\EGE\obj\Debug\EGE.pdb

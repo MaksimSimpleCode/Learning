@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\LetDemo\obj\Debug\LetDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\LetDemo\bin\Debug\LetDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\LetDemo\bin\Debug\LetDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\LetDemo\bin\Debug\LetDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\LetDemo\obj\Debug\LetDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\LetDemo\obj\Debug\LetDemo.pdb

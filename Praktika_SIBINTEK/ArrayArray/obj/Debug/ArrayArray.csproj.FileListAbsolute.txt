@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Praktika\ArrayArray\obj\Debug\ArrayArray.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\ArrayArray\bin\Debug\ArrayArray.exe.config
+C:\123\Проекты C#\Praktika\ArrayArray\bin\Debug\ArrayArray.exe
+C:\123\Проекты C#\Praktika\ArrayArray\bin\Debug\ArrayArray.pdb
+C:\123\Проекты C#\Praktika\ArrayArray\obj\Debug\ArrayArray.exe
+C:\123\Проекты C#\Praktika\ArrayArray\obj\Debug\ArrayArray.pdb

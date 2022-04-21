@@ -1,0 +1,8 @@
+C:\123\Проекты C#\Lesson5\LoginEGE\obj\Debug\LoginEGE.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\LoginEGE\obj\Debug\LoginEGE.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\LoginEGE\bin\Debug\data.txt
+C:\123\Проекты C#\Lesson5\LoginEGE\bin\Debug\LoginEGE.exe.config
+C:\123\Проекты C#\Lesson5\LoginEGE\bin\Debug\LoginEGE.exe
+C:\123\Проекты C#\Lesson5\LoginEGE\bin\Debug\LoginEGE.pdb
+C:\123\Проекты C#\Lesson5\LoginEGE\obj\Debug\LoginEGE.exe
+C:\123\Проекты C#\Lesson5\LoginEGE\obj\Debug\LoginEGE.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\obj\Debug\GroupDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\bin\Debug\GroupDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\bin\Debug\GroupDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\bin\Debug\GroupDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\obj\Debug\GroupDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\obj\Debug\GroupDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\GroupDemo\obj\Debug\GroupDemo.csprojAssemblyReference.cache

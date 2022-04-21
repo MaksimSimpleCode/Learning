@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Time\bin\Debug\Time.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Time\bin\Debug\Time.exe
+C:\123\Мои документы\Проекты C#\Praktika\Time\bin\Debug\Time.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Time\obj\Debug\Time.exe
+C:\123\Мои документы\Проекты C#\Praktika\Time\obj\Debug\Time.pdb

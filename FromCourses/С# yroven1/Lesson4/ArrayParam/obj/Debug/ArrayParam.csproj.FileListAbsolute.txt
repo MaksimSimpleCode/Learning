@@ -1,0 +1,7 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\obj\Debug\ArrayParam.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\obj\Debug\ArrayParam.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\bin\Debug\ArrayParam.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\bin\Debug\ArrayParam.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\bin\Debug\ArrayParam.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\obj\Debug\ArrayParam.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\ArrayParam\obj\Debug\ArrayParam.pdb

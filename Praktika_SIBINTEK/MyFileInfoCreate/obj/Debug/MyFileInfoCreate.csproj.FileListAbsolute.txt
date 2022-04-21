@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\bin\Debug\MyFileInfoCreate.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\bin\Debug\MyFileInfoCreate.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\bin\Debug\MyFileInfoCreate.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\obj\Debug\MyFileInfoCreate.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\obj\Debug\MyFileInfoCreate.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\obj\Debug\MyFileInfoCreate.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyFileInfoCreate\obj\Debug\MyFileInfoCreate.pdb

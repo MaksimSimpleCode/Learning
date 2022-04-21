@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\obj\Debug\SimplreSerialize.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\obj\Debug\SimplreSerialize.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\bin\Debug\SimplreSerialize.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\bin\Debug\SimplreSerialize.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\bin\Debug\SimplreSerialize.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\obj\Debug\SimplreSerialize.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimplreSerialize\obj\Debug\SimplreSerialize.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.pdb
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.exe
+C:\123\Мои документы\Проекты C#\Praktika\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.pdb

@@ -1,0 +1,12 @@
+C:\123\Мои документы\Проекты C#\Praktika\DriveInfoApp\bin\Debug\DriveInfoApp.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\DriveInfoApp\bin\Debug\DriveInfoApp.exe
+C:\123\Мои документы\Проекты C#\Praktika\DriveInfoApp\bin\Debug\DriveInfoApp.pdb
+C:\123\Мои документы\Проекты C#\Praktika\DriveInfoApp\obj\Debug\DriveInfoApp.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\DriveInfoApp\obj\Debug\DriveInfoApp.exe
+C:\123\Мои документы\Проекты C#\Praktika\DriveInfoApp\obj\Debug\DriveInfoApp.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\DriveInfoApp\bin\Debug\DriveInfoApp.exe.config
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\DriveInfoApp\bin\Debug\DriveInfoApp.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\DriveInfoApp\bin\Debug\DriveInfoApp.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\DriveInfoApp\obj\Debug\DriveInfoApp.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\DriveInfoApp\obj\Debug\DriveInfoApp.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\DriveInfoApp\obj\Debug\DriveInfoApp.pdb

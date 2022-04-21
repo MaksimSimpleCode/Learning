@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\obj\Debug\SortedListDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\obj\Debug\SortedListDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\bin\Debug\SortedListDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\bin\Debug\SortedListDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\bin\Debug\SortedListDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\obj\Debug\SortedListDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SortedListDemo\obj\Debug\SortedListDemo.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\Parameters\bin\Debug\Parameters.exe.config
+C:\123\Проекты C#\Djon Sharp Book\Parameters\bin\Debug\Parameters.exe
+C:\123\Проекты C#\Djon Sharp Book\Parameters\bin\Debug\Parameters.pdb
+C:\123\Проекты C#\Djon Sharp Book\Parameters\obj\Debug\Parameters.exe
+C:\123\Проекты C#\Djon Sharp Book\Parameters\obj\Debug\Parameters.pdb

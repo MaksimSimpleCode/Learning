@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Split\obj\Debug\Split.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Split\bin\Debug\Split.exe.config
+C:\123\Проекты C#\Praktika\Split\bin\Debug\Split.exe
+C:\123\Проекты C#\Praktika\Split\bin\Debug\Split.pdb
+C:\123\Проекты C#\Praktika\Split\obj\Debug\Split.exe
+C:\123\Проекты C#\Praktika\Split\obj\Debug\Split.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\obj\Debug\SimpleQuery.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\obj\Debug\SimpleQuery.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\bin\Debug\SimpleQuery.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\bin\Debug\SimpleQuery.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\bin\Debug\SimpleQuery.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\obj\Debug\SimpleQuery.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleQuery\obj\Debug\SimpleQuery.pdb

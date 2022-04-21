@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\Array\bin\Debug\Array.exe.config
+C:\123\Проекты C#\Djon Sharp Book\Array\bin\Debug\Array.exe
+C:\123\Проекты C#\Djon Sharp Book\Array\bin\Debug\Array.pdb
+C:\123\Проекты C#\Djon Sharp Book\Array\obj\Debug\Array.exe
+C:\123\Проекты C#\Djon Sharp Book\Array\obj\Debug\Array.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\bin\Debug\Shapes.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\bin\Debug\Shapes.exe
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\bin\Debug\Shapes.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\obj\Debug\Shapes.exe
+C:\123\Мои документы\Проекты C#\Praktika\Shapes\obj\Debug\Shapes.pdb

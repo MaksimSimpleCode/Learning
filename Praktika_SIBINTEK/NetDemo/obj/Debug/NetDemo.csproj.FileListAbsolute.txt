@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\obj\Debug\NetDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\obj\Debug\NetDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\bin\Debug\NetDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\bin\Debug\NetDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\bin\Debug\NetDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\obj\Debug\NetDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\NetDemo\obj\Debug\NetDemo.pdb

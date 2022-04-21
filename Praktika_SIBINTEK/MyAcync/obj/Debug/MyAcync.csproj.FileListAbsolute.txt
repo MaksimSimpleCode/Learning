@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\bin\Debug\MyAcync.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\bin\Debug\MyAcync.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\bin\Debug\MyAcync.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\obj\Debug\MyAcync.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\obj\Debug\MyAcync.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\obj\Debug\MyAcync.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyAcync\obj\Debug\MyAcync.pdb

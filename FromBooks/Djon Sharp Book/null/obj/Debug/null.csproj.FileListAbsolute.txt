@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\null\obj\Debug\null.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\null\obj\Debug\null.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\null\bin\Debug\@null.exe.config
+C:\123\Проекты C#\Djon Sharp Book\null\bin\Debug\@null.exe
+C:\123\Проекты C#\Djon Sharp Book\null\bin\Debug\@null.pdb
+C:\123\Проекты C#\Djon Sharp Book\null\obj\Debug\@null.exe
+C:\123\Проекты C#\Djon Sharp Book\null\obj\Debug\@null.pdb

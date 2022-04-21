@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcf_chat", "wcf_chat\wcf_chat.csproj", "{937A32EE-1493-4742-A21C-62B893FA0052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{94231D56-09B6-4896-ADCC-28BE03ED0F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{24D4AACB-B173-4CFF-A596-C1C8B958AC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937A32EE-1493-4742-A21C-62B893FA0052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937A32EE-1493-4742-A21C-62B893FA0052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937A32EE-1493-4742-A21C-62B893FA0052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937A32EE-1493-4742-A21C-62B893FA0052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94231D56-09B6-4896-ADCC-28BE03ED0F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94231D56-09B6-4896-ADCC-28BE03ED0F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94231D56-09B6-4896-ADCC-28BE03ED0F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94231D56-09B6-4896-ADCC-28BE03ED0F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D4AACB-B173-4CFF-A596-C1C8B958AC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D4AACB-B173-4CFF-A596-C1C8B958AC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D4AACB-B173-4CFF-A596-C1C8B958AC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D4AACB-B173-4CFF-A596-C1C8B958AC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C702BE09-264C-4080-BB08-71738910F4BD}
+	EndGlobalSection
+EndGlobal

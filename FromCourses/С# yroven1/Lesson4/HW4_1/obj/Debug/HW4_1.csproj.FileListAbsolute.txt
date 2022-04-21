@@ -1,0 +1,7 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\obj\Debug\HW4_1.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\obj\Debug\HW4_1.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\bin\Debug\HW4_1.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\bin\Debug\HW4_1.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\bin\Debug\HW4_1.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\obj\Debug\HW4_1.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\HW4_1\obj\Debug\HW4_1.pdb

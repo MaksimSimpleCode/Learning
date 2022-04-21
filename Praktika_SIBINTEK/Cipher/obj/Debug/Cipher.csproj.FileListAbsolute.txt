@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Cipher\obj\Debug\Cipher.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Cipher\bin\Debug\Cipher.exe.config
+C:\123\Проекты C#\Praktika\Cipher\bin\Debug\Cipher.exe
+C:\123\Проекты C#\Praktika\Cipher\bin\Debug\Cipher.pdb
+C:\123\Проекты C#\Praktika\Cipher\obj\Debug\Cipher.exe
+C:\123\Проекты C#\Praktika\Cipher\obj\Debug\Cipher.pdb
+C:\123\Проекты C#\Praktika\Cipher\obj\Debug\Cipher.csprojAssemblyReference.cache

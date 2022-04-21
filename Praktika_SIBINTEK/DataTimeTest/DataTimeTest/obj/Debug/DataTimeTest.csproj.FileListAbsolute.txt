@@ -1,0 +1,7 @@
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\obj\Debug\DataTimeTest.csprojAssemblyReference.cache
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\obj\Debug\DataTimeTest.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\bin\Debug\DataTimeTest.exe.config
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\bin\Debug\DataTimeTest.exe
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\bin\Debug\DataTimeTest.pdb
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\obj\Debug\DataTimeTest.exe
+C:\123\Проекты C#\DataTimeTest\DataTimeTest\obj\Debug\DataTimeTest.pdb

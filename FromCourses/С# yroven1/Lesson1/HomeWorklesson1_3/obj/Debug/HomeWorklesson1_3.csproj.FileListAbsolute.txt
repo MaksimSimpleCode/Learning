@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson1\HomeWorklesson1_3\obj\Debug\HomeWorklesson1_3.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson1\HomeWorklesson1_3\bin\Debug\HomeWorklesson1_3.exe.config
+C:\123\Проекты C#\Lesson1\HomeWorklesson1_3\bin\Debug\HomeWorklesson1_3.exe
+C:\123\Проекты C#\Lesson1\HomeWorklesson1_3\bin\Debug\HomeWorklesson1_3.pdb
+C:\123\Проекты C#\Lesson1\HomeWorklesson1_3\obj\Debug\HomeWorklesson1_3.exe
+C:\123\Проекты C#\Lesson1\HomeWorklesson1_3\obj\Debug\HomeWorklesson1_3.pdb

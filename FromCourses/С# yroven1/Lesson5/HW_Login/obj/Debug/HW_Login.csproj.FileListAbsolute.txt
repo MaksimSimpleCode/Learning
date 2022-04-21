@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson5\HW_Login\obj\Debug\HW_Login.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\HW_Login\obj\Debug\HW_Login.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\HW_Login\bin\Debug\HW_Login.exe.config
+C:\123\Проекты C#\Lesson5\HW_Login\bin\Debug\HW_Login.exe
+C:\123\Проекты C#\Lesson5\HW_Login\bin\Debug\HW_Login.pdb
+C:\123\Проекты C#\Lesson5\HW_Login\obj\Debug\HW_Login.exe
+C:\123\Проекты C#\Lesson5\HW_Login\obj\Debug\HW_Login.pdb

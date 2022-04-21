@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\TabulDoWhile\obj\Debug\TabulDoWhile.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\TabulDoWhile\bin\Debug\TabulDoWhile.exe.config
+C:\123\Проекты C#\Lesson3\TabulDoWhile\bin\Debug\TabulDoWhile.exe
+C:\123\Проекты C#\Lesson3\TabulDoWhile\bin\Debug\TabulDoWhile.pdb
+C:\123\Проекты C#\Lesson3\TabulDoWhile\obj\Debug\TabulDoWhile.exe
+C:\123\Проекты C#\Lesson3\TabulDoWhile\obj\Debug\TabulDoWhile.pdb

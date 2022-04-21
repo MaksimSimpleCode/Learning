@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\AnonTypeDemo\obj\Debug\AnonTypeDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\AnonTypeDemo\bin\Debug\AnonTypeDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\AnonTypeDemo\bin\Debug\AnonTypeDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\AnonTypeDemo\bin\Debug\AnonTypeDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\AnonTypeDemo\obj\Debug\AnonTypeDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\AnonTypeDemo\obj\Debug\AnonTypeDemo.pdb

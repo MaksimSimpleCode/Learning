@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson2\L2_6\obj\Debug\L2_6.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson2\L2_6\bin\Debug\L2_6.exe.config
+C:\123\Проекты C#\Lesson2\L2_6\bin\Debug\L2_6.exe
+C:\123\Проекты C#\Lesson2\L2_6\bin\Debug\L2_6.pdb
+C:\123\Проекты C#\Lesson2\L2_6\obj\Debug\L2_6.exe
+C:\123\Проекты C#\Lesson2\L2_6\obj\Debug\L2_6.pdb

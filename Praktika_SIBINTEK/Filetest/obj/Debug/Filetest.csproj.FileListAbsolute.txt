@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\bin\Debug\Filetest.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\bin\Debug\Filetest.exe
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\bin\Debug\Filetest.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\obj\Debug\Filetest.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\obj\Debug\Filetest.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\obj\Debug\Filetest.exe
+C:\123\Мои документы\Проекты C#\Praktika\Filetest\obj\Debug\Filetest.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\obj\Debug\DataFormat.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\obj\Debug\DataFormat.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\bin\Debug\DataFormat.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\bin\Debug\DataFormat.exe
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\bin\Debug\DataFormat.pdb
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\obj\Debug\DataFormat.exe
+C:\123\Мои документы\Проекты C#\Praktika\DataFormat\obj\Debug\DataFormat.pdb

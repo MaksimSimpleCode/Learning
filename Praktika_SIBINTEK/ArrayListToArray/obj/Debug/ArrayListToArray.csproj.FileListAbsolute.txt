@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\obj\Debug\ArrayListToArray.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\bin\Debug\ArrayListToArray.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\bin\Debug\ArrayListToArray.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\bin\Debug\ArrayListToArray.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\obj\Debug\ArrayListToArray.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\obj\Debug\ArrayListToArray.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ArrayListToArray\obj\Debug\ArrayListToArray.csprojAssemblyReference.cache

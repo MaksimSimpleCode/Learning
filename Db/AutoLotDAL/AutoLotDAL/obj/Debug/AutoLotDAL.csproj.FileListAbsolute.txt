@@ -1,0 +1,6 @@
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb

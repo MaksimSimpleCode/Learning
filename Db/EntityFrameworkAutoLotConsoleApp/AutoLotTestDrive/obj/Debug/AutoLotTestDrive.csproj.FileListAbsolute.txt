@@ -1,0 +1,15 @@
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\AutoLotTestDrive.exe.config
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\AutoLotTestDrive.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\AutoLotTestDrive.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\AutoLotDAL.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\EntityFramework.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\EntityFramework.SqlServer.dll
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\AutoLotDAL.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\AutoLotDAL.dll.config
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\EntityFramework.xml
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\bin\Debug\EntityFramework.SqlServer.xml
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.csproj.CopyComplete
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\EntityFrameworkAutoLotConsoleApp\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.pdb

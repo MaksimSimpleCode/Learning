@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\obj\Debug\Trimp.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\obj\Debug\Trimp.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\bin\Debug\Trimp.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\bin\Debug\Trimp.exe
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\bin\Debug\Trimp.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\obj\Debug\Trimp.exe
+C:\123\Мои документы\Проекты C#\Praktika\Trimp\obj\Debug\Trimp.pdb

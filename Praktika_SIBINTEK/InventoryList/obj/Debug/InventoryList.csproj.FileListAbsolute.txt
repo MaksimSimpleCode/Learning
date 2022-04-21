@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\obj\Debug\InventoryList.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\obj\Debug\InventoryList.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\bin\Debug\InventoryList.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\bin\Debug\InventoryList.exe
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\bin\Debug\InventoryList.pdb
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\obj\Debug\InventoryList.exe
+C:\123\Мои документы\Проекты C#\Praktika\InventoryList\obj\Debug\InventoryList.pdb

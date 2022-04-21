@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson3\L3_1\obj\Debug\L3_1.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\L3_1\bin\Debug\L3_1.exe.config
+C:\123\Проекты C#\Lesson3\L3_1\bin\Debug\L3_1.exe
+C:\123\Проекты C#\Lesson3\L3_1\bin\Debug\L3_1.pdb
+C:\123\Проекты C#\Lesson3\L3_1\obj\Debug\L3_1.exe
+C:\123\Проекты C#\Lesson3\L3_1\obj\Debug\L3_1.pdb
+C:\123\Проекты C#\Lesson3\L3_1\obj\Debug\L3_1.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\obj\Debug\IntoDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\obj\Debug\IntoDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\bin\Debug\IntoDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\bin\Debug\IntoDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\bin\Debug\IntoDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\obj\Debug\IntoDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\IntoDemo\obj\Debug\IntoDemo.pdb

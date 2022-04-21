@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson3\Chastnoe\obj\Debug\Chastnoe.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson3\Chastnoe\obj\Debug\Chastnoe.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\Chastnoe\bin\Debug\Chastnoe.exe.config
+C:\123\Проекты C#\Lesson3\Chastnoe\bin\Debug\Chastnoe.exe
+C:\123\Проекты C#\Lesson3\Chastnoe\bin\Debug\Chastnoe.pdb
+C:\123\Проекты C#\Lesson3\Chastnoe\obj\Debug\Chastnoe.exe
+C:\123\Проекты C#\Lesson3\Chastnoe\obj\Debug\Chastnoe.pdb

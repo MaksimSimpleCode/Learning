@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\Max\obj\Debug\Max.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\Max\bin\Debug\Max.exe.config
+C:\123\Проекты C#\Lesson3\Max\bin\Debug\Max.exe
+C:\123\Проекты C#\Lesson3\Max\bin\Debug\Max.pdb
+C:\123\Проекты C#\Lesson3\Max\obj\Debug\Max.exe
+C:\123\Проекты C#\Lesson3\Max\obj\Debug\Max.pdb

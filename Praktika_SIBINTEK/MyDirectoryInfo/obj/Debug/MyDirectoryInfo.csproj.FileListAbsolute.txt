@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\bin\Debug\MyDirectoryInfo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\bin\Debug\MyDirectoryInfo.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\bin\Debug\MyDirectoryInfo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\obj\Debug\MyDirectoryInfo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\obj\Debug\MyDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\obj\Debug\MyDirectoryInfo.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyDirectoryInfo\obj\Debug\MyDirectoryInfo.pdb

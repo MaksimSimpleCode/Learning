@@ -1,0 +1,14 @@
+C:\123\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\123\Проекты C#\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\123\Проекты C#\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\123\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\123\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\123\Мои документы\Проекты C#\Praktika\Praktika\obj\Debug\Praktika.pdb

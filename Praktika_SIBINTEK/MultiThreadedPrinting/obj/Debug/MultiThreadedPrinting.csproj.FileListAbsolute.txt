@@ -1,0 +1,13 @@
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.exe
+C:\123\Мои документы\Проекты C#\Praktika\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe.config
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.pdb

@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\SortSearchDemo\obj\Debug\SortSearchDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SortSearchDemo\bin\Debug\SortSearchDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SortSearchDemo\bin\Debug\SortSearchDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SortSearchDemo\bin\Debug\SortSearchDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SortSearchDemo\obj\Debug\SortSearchDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SortSearchDemo\obj\Debug\SortSearchDemo.pdb

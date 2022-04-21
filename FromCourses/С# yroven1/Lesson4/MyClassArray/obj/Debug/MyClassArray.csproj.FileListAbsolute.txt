@@ -1,0 +1,7 @@
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\obj\Debug\MyClassArray.csprojAssemblyReference.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\obj\Debug\MyClassArray.csproj.CoreCompileInputs.cache
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\bin\Debug\MyClassArray.exe.config
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\bin\Debug\MyClassArray.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\bin\Debug\MyClassArray.pdb
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\obj\Debug\MyClassArray.exe
+C:\Users\yudakovvv1\source\repos\Lesson4\MyClassArray\obj\Debug\MyClassArray.pdb

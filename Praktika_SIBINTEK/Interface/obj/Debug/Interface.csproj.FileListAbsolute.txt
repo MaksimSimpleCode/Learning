@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Interface\bin\Debug\Interface.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Interface\bin\Debug\Interface.exe
+C:\123\Мои документы\Проекты C#\Praktika\Interface\bin\Debug\Interface.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Interface\obj\Debug\Interface.exe
+C:\123\Мои документы\Проекты C#\Praktika\Interface\obj\Debug\Interface.pdb

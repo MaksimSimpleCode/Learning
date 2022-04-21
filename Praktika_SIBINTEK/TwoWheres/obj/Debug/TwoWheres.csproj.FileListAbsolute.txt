@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\TwoWheres\obj\Debug\TwoWheres.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\TwoWheres\bin\Debug\TwoWheres.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\TwoWheres\bin\Debug\TwoWheres.exe
+C:\123\Мои документы\Проекты C#\Praktika\TwoWheres\bin\Debug\TwoWheres.pdb
+C:\123\Мои документы\Проекты C#\Praktika\TwoWheres\obj\Debug\TwoWheres.exe
+C:\123\Мои документы\Проекты C#\Praktika\TwoWheres\obj\Debug\TwoWheres.pdb

@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\GroupJoinDemo\obj\Debug\GroupJoinDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\GroupJoinDemo\bin\Debug\GroupJoinDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\GroupJoinDemo\bin\Debug\GroupJoinDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\GroupJoinDemo\bin\Debug\GroupJoinDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\GroupJoinDemo\obj\Debug\GroupJoinDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\GroupJoinDemo\obj\Debug\GroupJoinDemo.pdb

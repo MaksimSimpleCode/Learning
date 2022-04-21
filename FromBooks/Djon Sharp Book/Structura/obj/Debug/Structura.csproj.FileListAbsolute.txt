@@ -1,0 +1,2 @@
+C:\123\Проекты C#\Djon Sharp Book\Structura\obj\Debug\Structura.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\Structura\obj\Debug\Structura.csproj.CoreCompileInputs.cache

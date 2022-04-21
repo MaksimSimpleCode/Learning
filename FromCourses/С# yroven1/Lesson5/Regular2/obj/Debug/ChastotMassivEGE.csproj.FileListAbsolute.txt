@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson5\Regular2\obj\Debug\ChastotMassivEGE.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson5\Regular2\obj\Debug\ChastotMassivEGE.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Regular2\bin\Debug\Regular2.exe.config
+C:\123\Проекты C#\Lesson5\Regular2\bin\Debug\Regular2.exe
+C:\123\Проекты C#\Lesson5\Regular2\bin\Debug\Regular2.pdb
+C:\123\Проекты C#\Lesson5\Regular2\obj\Debug\Regular2.exe
+C:\123\Проекты C#\Lesson5\Regular2\obj\Debug\Regular2.pdb

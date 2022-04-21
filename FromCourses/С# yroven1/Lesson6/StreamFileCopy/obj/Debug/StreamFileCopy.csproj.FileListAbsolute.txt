@@ -1,0 +1,9 @@
+C:\123\Проекты C#\Lesson6\StreamFileCopy\obj\Debug\StreamFileCopy.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson6\StreamFileCopy\obj\Debug\StreamFileCopy.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\StreamFileCopy\bin\Debug\StreamFileCopy.exe.config
+C:\123\Проекты C#\Lesson6\StreamFileCopy\bin\Debug\StreamFileCopy.exe
+C:\123\Проекты C#\Lesson6\StreamFileCopy\bin\Debug\StreamFileCopy.pdb
+C:\123\Проекты C#\Lesson6\StreamFileCopy\obj\Debug\StreamFileCopy.exe
+C:\123\Проекты C#\Lesson6\StreamFileCopy\obj\Debug\StreamFileCopy.pdb
+C:\123\Проекты C#\Lesson6\StreamFileCopy\bin\Debug\hobbit.txt
+C:\123\Проекты C#\Lesson6\StreamFileCopy\bin\Debug\numbers.txt

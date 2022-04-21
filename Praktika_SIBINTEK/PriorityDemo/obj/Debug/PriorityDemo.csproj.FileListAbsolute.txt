@@ -1,0 +1,13 @@
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\obj\Debug\PriorityDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\obj\Debug\PriorityDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\bin\Debug\PriorityDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\bin\Debug\PriorityDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\bin\Debug\PriorityDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\obj\Debug\PriorityDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\PriorityDemo\obj\Debug\PriorityDemo.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\PriorityDemo\bin\Debug\PriorityDemo.exe.config
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\PriorityDemo\bin\Debug\PriorityDemo.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\PriorityDemo\bin\Debug\PriorityDemo.pdb
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\PriorityDemo\obj\Debug\PriorityDemo.csproj.CoreCompileInputs.cache
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\PriorityDemo\obj\Debug\PriorityDemo.exe
+A:\Программирование\C#\Обучение\Praktika_SIBINTEK\PriorityDemo\obj\Debug\PriorityDemo.pdb

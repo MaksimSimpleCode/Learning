@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+C:\123\Мои документы\Проекты C#\Praktika\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

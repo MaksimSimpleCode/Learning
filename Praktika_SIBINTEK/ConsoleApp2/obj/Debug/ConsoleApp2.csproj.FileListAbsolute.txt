@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\123\Мои документы\Проекты C#\Praktika\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

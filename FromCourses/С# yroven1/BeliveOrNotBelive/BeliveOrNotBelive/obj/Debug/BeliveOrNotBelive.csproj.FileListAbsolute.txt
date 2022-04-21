@@ -1,0 +1,10 @@
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.csprojAssemblyReference.cache
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.Properties.Resources.resources
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.csproj.GenerateResource.cache
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\bin\Debug\BeliveOrNotBelive.exe.config
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\bin\Debug\BeliveOrNotBelive.exe
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\bin\Debug\BeliveOrNotBelive.pdb
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.Form1.resources
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.exe
+C:\123\Проекты C#\BeliveOrNotBelive\BeliveOrNotBelive\obj\Debug\BeliveOrNotBelive.pdb

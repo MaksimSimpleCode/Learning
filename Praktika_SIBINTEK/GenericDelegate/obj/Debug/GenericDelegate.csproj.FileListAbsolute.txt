@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\123\Мои документы\Проекты C#\Praktika\GenericDelegate\obj\Debug\GenericDelegate.pdb

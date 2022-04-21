@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson2\L2_4\obj\Debug\L2_4.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson2\L2_4\bin\Debug\L2_4.exe.config
+C:\123\Проекты C#\Lesson2\L2_4\bin\Debug\L2_4.exe
+C:\123\Проекты C#\Lesson2\L2_4\bin\Debug\L2_4.pdb
+C:\123\Проекты C#\Lesson2\L2_4\obj\Debug\L2_4.exe
+C:\123\Проекты C#\Lesson2\L2_4\obj\Debug\L2_4.pdb

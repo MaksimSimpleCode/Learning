@@ -1,0 +1,7 @@
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+A:\Программирование\Проекты C#\Обучение\DbProjects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\obj\Debug\HomeWorkLesson1_2.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\obj\Debug\HomeWorkLesson1_2.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\bin\Debug\HomeW_L1(peregruzka).exe.config
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\bin\Debug\HomeW_L1(peregruzka).exe
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\bin\Debug\HomeW_L1(peregruzka).pdb
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\obj\Debug\HomeW_L1(peregruzka).exe
+C:\123\Проекты C#\Lesson1\HomeW_L1(peregruzka)\obj\Debug\HomeW_L1(peregruzka).pdb

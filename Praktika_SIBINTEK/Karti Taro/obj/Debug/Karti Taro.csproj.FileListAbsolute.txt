@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Praktika\Karti Taro\obj\Debug\Karti Taro.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Karti Taro\bin\Debug\Karti Taro.exe.config
+C:\123\Проекты C#\Praktika\Karti Taro\bin\Debug\Karti Taro.exe
+C:\123\Проекты C#\Praktika\Karti Taro\bin\Debug\Karti Taro.pdb
+C:\123\Проекты C#\Praktika\Karti Taro\obj\Debug\Karti Taro.exe
+C:\123\Проекты C#\Praktika\Karti Taro\obj\Debug\Karti Taro.pdb

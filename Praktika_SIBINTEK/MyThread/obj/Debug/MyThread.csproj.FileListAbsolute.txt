@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\bin\Debug\MyThread.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\bin\Debug\MyThread.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\bin\Debug\MyThread.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\obj\Debug\MyThread.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\obj\Debug\MyThread.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyThread\obj\Debug\MyThread.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\obj\Debug\Sqrt.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\obj\Debug\Sqrt.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\bin\Debug\Sqrt.exe.config
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\bin\Debug\Sqrt.exe
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\bin\Debug\Sqrt.pdb
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\obj\Debug\Sqrt.exe
+C:\123\Проекты C#\Djon Sharp Book\Sqrt\obj\Debug\Sqrt.pdb

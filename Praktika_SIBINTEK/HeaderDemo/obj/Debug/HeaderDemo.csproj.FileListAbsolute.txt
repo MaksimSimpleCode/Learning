@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\HeaderDemo\obj\Debug\HeaderDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\HeaderDemo\bin\Debug\HeaderDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\HeaderDemo\bin\Debug\HeaderDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\HeaderDemo\bin\Debug\HeaderDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\HeaderDemo\obj\Debug\HeaderDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\HeaderDemo\obj\Debug\HeaderDemo.pdb

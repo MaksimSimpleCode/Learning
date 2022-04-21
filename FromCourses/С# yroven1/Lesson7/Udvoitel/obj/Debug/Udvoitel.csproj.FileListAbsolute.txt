@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson7\Udvoitel\bin\Debug\Udvoitel.exe.config
+C:\123\Проекты C#\Lesson7\Udvoitel\bin\Debug\Udvoitel.exe
+C:\123\Проекты C#\Lesson7\Udvoitel\bin\Debug\Udvoitel.pdb
+C:\123\Проекты C#\Lesson7\Udvoitel\obj\Debug\Udvoitel.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson7\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson7\Udvoitel\obj\Debug\Udvoitel.exe
+C:\123\Проекты C#\Lesson7\Udvoitel\obj\Debug\Udvoitel.pdb

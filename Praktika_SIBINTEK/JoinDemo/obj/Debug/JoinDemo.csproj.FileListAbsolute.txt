@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\obj\Debug\JoinDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\obj\Debug\JoinDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\bin\Debug\JoinDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\bin\Debug\JoinDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\bin\Debug\JoinDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\obj\Debug\JoinDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\JoinDemo\obj\Debug\JoinDemo.pdb

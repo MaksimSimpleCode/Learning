@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\obj\Debug\MyEvents.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\obj\Debug\MyEvents.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\bin\Debug\MyEvents.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\bin\Debug\MyEvents.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\bin\Debug\MyEvents.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\obj\Debug\MyEvents.exe
+C:\123\Мои документы\Проекты C#\Praktika\MyEvents\obj\Debug\MyEvents.pdb

@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.exe
+C:\123\Мои документы\Проекты C#\Praktika\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.pdb

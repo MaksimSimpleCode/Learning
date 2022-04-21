@@ -1,0 +1,9 @@
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
+C:\123\Мои документы\Проекты C#\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb

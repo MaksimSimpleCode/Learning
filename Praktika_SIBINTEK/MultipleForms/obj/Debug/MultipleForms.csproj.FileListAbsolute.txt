@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\MultipleForms\obj\Debug\MultipleForms.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\MultipleForms\bin\Debug\MultipleForms.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\MultipleForms\bin\Debug\MultipleForms.exe
+C:\123\Мои документы\Проекты C#\Praktika\MultipleForms\bin\Debug\MultipleForms.pdb
+C:\123\Мои документы\Проекты C#\Praktika\MultipleForms\obj\Debug\MultipleForms.exe
+C:\123\Мои документы\Проекты C#\Praktika\MultipleForms\obj\Debug\MultipleForms.pdb

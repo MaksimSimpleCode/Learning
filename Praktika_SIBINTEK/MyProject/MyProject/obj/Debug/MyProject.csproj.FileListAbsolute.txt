@@ -1,0 +1,7 @@
+C:\123\Проекты C#\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\123\Проекты C#\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\123\Проекты C#\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\123\Проекты C#\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\123\Проекты C#\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\123\Проекты C#\MyProject\MyProject\obj\Debug\MyProject.pdb

@@ -1,0 +1,14 @@
+C:\123\Проекты C#\Praktika\Dictionary\bin\Debug\Dictionary.exe.config
+C:\123\Проекты C#\Praktika\Dictionary\bin\Debug\Dictionary.exe
+C:\123\Проекты C#\Praktika\Dictionary\bin\Debug\Dictionary.pdb
+C:\123\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.exe
+C:\123\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\bin\Debug\Dictionary.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\bin\Debug\Dictionary.exe
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\bin\Debug\Dictionary.pdb
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.exe
+C:\123\Мои документы\Проекты C#\Praktika\Dictionary\obj\Debug\Dictionary.pdb

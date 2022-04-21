@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson6\FileCopy\obj\Debug\FileCopy.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\FileCopy\bin\Debug\data.txt
+C:\123\Проекты C#\Lesson6\FileCopy\bin\Debug\FileCopy.exe.config
+C:\123\Проекты C#\Lesson6\FileCopy\bin\Debug\FileCopy.exe
+C:\123\Проекты C#\Lesson6\FileCopy\bin\Debug\FileCopy.pdb
+C:\123\Проекты C#\Lesson6\FileCopy\obj\Debug\FileCopy.exe
+C:\123\Проекты C#\Lesson6\FileCopy\obj\Debug\FileCopy.pdb

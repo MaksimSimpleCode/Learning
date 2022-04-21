@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson6\DirectoryInfo\obj\Debug\DirectoryInfo.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson6\DirectoryInfo\obj\Debug\DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson6\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+C:\123\Проекты C#\Lesson6\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+C:\123\Проекты C#\Lesson6\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+C:\123\Проекты C#\Lesson6\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+C:\123\Проекты C#\Lesson6\DirectoryInfo\obj\Debug\DirectoryInfo.pdb

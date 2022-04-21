@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\bin\Debug\SelectDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\bin\Debug\SelectDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\bin\Debug\SelectDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\obj\Debug\SelectDemo.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\obj\Debug\SelectDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\obj\Debug\SelectDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\SelectDemo\obj\Debug\SelectDemo.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson3\DataRead\obj\Debug\DataRead.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\DataRead\bin\Debug\data.txt
+C:\123\Проекты C#\Lesson3\DataRead\bin\Debug\DataRead.exe.config
+C:\123\Проекты C#\Lesson3\DataRead\bin\Debug\DataRead.exe
+C:\123\Проекты C#\Lesson3\DataRead\bin\Debug\DataRead.pdb
+C:\123\Проекты C#\Lesson3\DataRead\obj\Debug\DataRead.exe
+C:\123\Проекты C#\Lesson3\DataRead\obj\Debug\DataRead.pdb

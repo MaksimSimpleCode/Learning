@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Djon Sharp Book\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\123\Проекты C#\Djon Sharp Book\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Djon Sharp Book\Classes\bin\Debug\Classes.exe.config
+C:\123\Проекты C#\Djon Sharp Book\Classes\bin\Debug\Classes.exe
+C:\123\Проекты C#\Djon Sharp Book\Classes\bin\Debug\Classes.pdb
+C:\123\Проекты C#\Djon Sharp Book\Classes\obj\Debug\Classes.exe
+C:\123\Проекты C#\Djon Sharp Book\Classes\obj\Debug\Classes.pdb

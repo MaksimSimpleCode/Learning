@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson3\HW_struktura\obj\Debug\HW_struktura.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson3\HW_struktura\bin\Debug\HW_struktura.exe.config
+C:\123\Проекты C#\Lesson3\HW_struktura\bin\Debug\HW_struktura.exe
+C:\123\Проекты C#\Lesson3\HW_struktura\bin\Debug\HW_struktura.pdb
+C:\123\Проекты C#\Lesson3\HW_struktura\obj\Debug\HW_struktura.exe
+C:\123\Проекты C#\Lesson3\HW_struktura\obj\Debug\HW_struktura.pdb

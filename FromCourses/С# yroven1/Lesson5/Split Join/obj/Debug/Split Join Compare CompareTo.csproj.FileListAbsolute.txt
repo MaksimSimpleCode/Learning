@@ -1,0 +1,6 @@
+C:\123\Проекты C#\Lesson5\Split Join\bin\Debug\Split Join.exe.config
+C:\123\Проекты C#\Lesson5\Split Join\bin\Debug\Split Join.exe
+C:\123\Проекты C#\Lesson5\Split Join\bin\Debug\Split Join.pdb
+C:\123\Проекты C#\Lesson5\Split Join\obj\Debug\Split Join Compare CompareTo.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson5\Split Join\obj\Debug\Split Join.exe
+C:\123\Проекты C#\Lesson5\Split Join\obj\Debug\Split Join.pdb

@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Summa Chisel\obj\Debug\Summa Chisel.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Summa Chisel\obj\Debug\Summa Chisel.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Summa Chisel\bin\Debug\Summa Chisel.exe.config
+C:\123\Проекты C#\Praktika\Summa Chisel\bin\Debug\Summa Chisel.exe
+C:\123\Проекты C#\Praktika\Summa Chisel\bin\Debug\Summa Chisel.pdb
+C:\123\Проекты C#\Praktika\Summa Chisel\obj\Debug\Summa Chisel.exe
+C:\123\Проекты C#\Praktika\Summa Chisel\obj\Debug\Summa Chisel.pdb

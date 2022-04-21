@@ -1,0 +1,7 @@
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\bin\Debug\LINQ.exe.config
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\bin\Debug\LINQ.exe
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\bin\Debug\LINQ.pdb
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\obj\Debug\LINQ.exe
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\LINQ\LINQ\obj\Debug\LINQ.pdb

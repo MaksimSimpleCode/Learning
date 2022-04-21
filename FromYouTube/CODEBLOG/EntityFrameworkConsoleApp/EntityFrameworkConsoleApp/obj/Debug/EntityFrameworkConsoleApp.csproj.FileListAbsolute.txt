@@ -1,0 +1,14 @@
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.exe.config
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.exe
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.pdb
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.dll
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.xml
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.AssemblyReference.cache
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.CoreCompileInputs.cache
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.CopyComplete
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.exe
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.pdb
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.AddGroupType.resources
+A:\Программирование\Проекты C#\Обучение\CODEBLOG\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.GenerateResource.cache

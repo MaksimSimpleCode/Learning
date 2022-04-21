@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Lesson7\Timers\obj\Debug\Timers.csprojAssemblyReference.cache
+C:\123\Проекты C#\Lesson7\Timers\obj\Debug\Timers.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Lesson7\Timers\bin\Debug\Timers.exe.config
+C:\123\Проекты C#\Lesson7\Timers\bin\Debug\Timers.exe
+C:\123\Проекты C#\Lesson7\Timers\bin\Debug\Timers.pdb
+C:\123\Проекты C#\Lesson7\Timers\obj\Debug\Timers.exe
+C:\123\Проекты C#\Lesson7\Timers\obj\Debug\Timers.pdb

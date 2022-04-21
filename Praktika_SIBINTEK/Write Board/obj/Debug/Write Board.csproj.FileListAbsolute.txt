@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\Write Board\obj\Debug\Write Board.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\Write Board\obj\Debug\Write Board.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\Write Board\bin\Debug\Write Board.exe.config
+C:\123\Проекты C#\Praktika\Write Board\bin\Debug\Write Board.exe
+C:\123\Проекты C#\Praktika\Write Board\bin\Debug\Write Board.pdb
+C:\123\Проекты C#\Praktika\Write Board\obj\Debug\Write Board.exe
+C:\123\Проекты C#\Praktika\Write Board\obj\Debug\Write Board.pdb

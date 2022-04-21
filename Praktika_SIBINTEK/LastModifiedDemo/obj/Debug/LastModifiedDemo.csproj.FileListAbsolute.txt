@@ -1,0 +1,6 @@
+C:\123\Мои документы\Проекты C#\Praktika\LastModifiedDemo\obj\Debug\LastModifiedDemo.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\LastModifiedDemo\bin\Debug\LastModifiedDemo.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\LastModifiedDemo\bin\Debug\LastModifiedDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\LastModifiedDemo\bin\Debug\LastModifiedDemo.pdb
+C:\123\Мои документы\Проекты C#\Praktika\LastModifiedDemo\obj\Debug\LastModifiedDemo.exe
+C:\123\Мои документы\Проекты C#\Praktika\LastModifiedDemo\obj\Debug\LastModifiedDemo.pdb

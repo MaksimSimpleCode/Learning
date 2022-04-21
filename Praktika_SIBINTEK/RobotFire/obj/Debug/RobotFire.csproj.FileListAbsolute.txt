@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\RobotFire\obj\Debug\RobotFire.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\RobotFire\obj\Debug\RobotFire.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\RobotFire\bin\Debug\RobotFire.exe.config
+C:\123\Проекты C#\Praktika\RobotFire\bin\Debug\RobotFire.exe
+C:\123\Проекты C#\Praktika\RobotFire\bin\Debug\RobotFire.pdb
+C:\123\Проекты C#\Praktika\RobotFire\obj\Debug\RobotFire.exe
+C:\123\Проекты C#\Praktika\RobotFire\obj\Debug\RobotFire.pdb

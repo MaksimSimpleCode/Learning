@@ -1,0 +1,7 @@
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\bin\Debug\ArrayBubbleSort.exe.config
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\bin\Debug\ArrayBubbleSort.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\bin\Debug\ArrayBubbleSort.pdb
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\obj\Debug\ArrayBubbleSort.csprojAssemblyReference.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\obj\Debug\ArrayBubbleSort.csproj.CoreCompileInputs.cache
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\obj\Debug\ArrayBubbleSort.exe
+C:\123\Мои документы\Проекты C#\Praktika\ArrayBubbleSort\obj\Debug\ArrayBubbleSort.pdb

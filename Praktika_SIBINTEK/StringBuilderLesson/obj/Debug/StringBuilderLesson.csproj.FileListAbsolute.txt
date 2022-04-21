@@ -1,0 +1,7 @@
+C:\123\Проекты C#\Praktika\StringBuilderLesson\bin\Debug\StringBuilderLesson.exe.config
+C:\123\Проекты C#\Praktika\StringBuilderLesson\bin\Debug\StringBuilderLesson.exe
+C:\123\Проекты C#\Praktika\StringBuilderLesson\bin\Debug\StringBuilderLesson.pdb
+C:\123\Проекты C#\Praktika\StringBuilderLesson\obj\Debug\StringBuilderLesson.csprojAssemblyReference.cache
+C:\123\Проекты C#\Praktika\StringBuilderLesson\obj\Debug\StringBuilderLesson.csproj.CoreCompileInputs.cache
+C:\123\Проекты C#\Praktika\StringBuilderLesson\obj\Debug\StringBuilderLesson.exe
+C:\123\Проекты C#\Praktika\StringBuilderLesson\obj\Debug\StringBuilderLesson.pdb
