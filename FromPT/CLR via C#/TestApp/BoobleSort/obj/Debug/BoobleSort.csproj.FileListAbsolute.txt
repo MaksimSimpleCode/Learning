@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\BoobleSort\bin\Debug\BoobleSort.exe.config
+D:\C#\CLR via C#\TestApp\BoobleSort\bin\Debug\BoobleSort.exe
+D:\C#\CLR via C#\TestApp\BoobleSort\bin\Debug\BoobleSort.pdb
+D:\C#\CLR via C#\TestApp\BoobleSort\obj\Debug\BoobleSort.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\BoobleSort\obj\Debug\BoobleSort.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\BoobleSort\obj\Debug\BoobleSort.exe
+D:\C#\CLR via C#\TestApp\BoobleSort\obj\Debug\BoobleSort.pdb

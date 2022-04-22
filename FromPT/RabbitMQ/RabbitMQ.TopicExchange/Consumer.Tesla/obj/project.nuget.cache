@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkOQR0NFP7cSzigxARokxeW2BpdE5NYPWh1YXsj9T1FV06EENXZnuACYltqAh+cc8aBgaB0C7irzsn+tsQOp/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusev\\source\\repos\\RabbitMQ.TopicExchange\\Consumer.Tesla\\Consumer.Tesla.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

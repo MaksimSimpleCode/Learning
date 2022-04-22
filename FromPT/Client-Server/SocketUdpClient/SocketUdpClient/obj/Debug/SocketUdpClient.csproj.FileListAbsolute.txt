@@ -1,0 +1,7 @@
+D:\C#\SocketUdpClient\SocketUdpClient\bin\Debug\SocketUdpClient.exe.config
+D:\C#\SocketUdpClient\SocketUdpClient\bin\Debug\SocketUdpClient.exe
+D:\C#\SocketUdpClient\SocketUdpClient\bin\Debug\SocketUdpClient.pdb
+D:\C#\SocketUdpClient\SocketUdpClient\obj\Debug\SocketUdpClient.csproj.AssemblyReference.cache
+D:\C#\SocketUdpClient\SocketUdpClient\obj\Debug\SocketUdpClient.csproj.CoreCompileInputs.cache
+D:\C#\SocketUdpClient\SocketUdpClient\obj\Debug\SocketUdpClient.exe
+D:\C#\SocketUdpClient\SocketUdpClient\obj\Debug\SocketUdpClient.pdb

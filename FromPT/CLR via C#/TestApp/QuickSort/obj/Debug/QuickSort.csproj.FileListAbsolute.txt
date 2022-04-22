@@ -1,0 +1,7 @@
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\bin\Debug\QuickSort.exe
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\bin\Debug\QuickSort.pdb
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\obj\Debug\QuickSort.exe
+D:\Programming\C#\CLR via C#\TestApp\QuickSort\obj\Debug\QuickSort.pdb

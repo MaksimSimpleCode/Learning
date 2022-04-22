@@ -1,0 +1,14 @@
+D:\C#\Web\SocketClient\bin\Debug\SocketClient.exe.config
+D:\C#\Web\SocketClient\bin\Debug\SocketClient.exe
+D:\C#\Web\SocketClient\bin\Debug\SocketClient.pdb
+D:\C#\Web\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+D:\C#\Web\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\C#\Web\SocketClient\obj\Debug\SocketClient.exe
+D:\C#\Web\SocketClient\obj\Debug\SocketClient.pdb
+D:\Programming\C#\Client-Service\Web\SocketClient\bin\Debug\SocketClient.exe.config
+D:\Programming\C#\Client-Service\Web\SocketClient\bin\Debug\SocketClient.exe
+D:\Programming\C#\Client-Service\Web\SocketClient\bin\Debug\SocketClient.pdb
+D:\Programming\C#\Client-Service\Web\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+D:\Programming\C#\Client-Service\Web\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Client-Service\Web\SocketClient\obj\Debug\SocketClient.exe
+D:\Programming\C#\Client-Service\Web\SocketClient\obj\Debug\SocketClient.pdb

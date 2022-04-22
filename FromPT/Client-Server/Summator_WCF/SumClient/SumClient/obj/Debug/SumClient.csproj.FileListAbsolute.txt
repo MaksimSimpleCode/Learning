@@ -1,0 +1,7 @@
+D:\Programming\C#\SumClient\SumClient\bin\Debug\SumClient.exe.config
+D:\Programming\C#\SumClient\SumClient\bin\Debug\SumClient.exe
+D:\Programming\C#\SumClient\SumClient\bin\Debug\SumClient.pdb
+D:\Programming\C#\SumClient\SumClient\obj\Debug\SumClient.csproj.AssemblyReference.cache
+D:\Programming\C#\SumClient\SumClient\obj\Debug\SumClient.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SumClient\SumClient\obj\Debug\SumClient.exe
+D:\Programming\C#\SumClient\SumClient\obj\Debug\SumClient.pdb

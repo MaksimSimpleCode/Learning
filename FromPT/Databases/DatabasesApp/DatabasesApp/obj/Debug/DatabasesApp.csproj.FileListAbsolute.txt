@@ -1,0 +1,7 @@
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\obj\Debug\DatabasesApp.csproj.AssemblyReference.cache
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\obj\Debug\DatabasesApp.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\bin\Debug\DatabasesApp.exe.config
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\bin\Debug\DatabasesApp.exe
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\bin\Debug\DatabasesApp.pdb
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\obj\Debug\DatabasesApp.exe
+D:\Programming\C#\Databases\DatabasesApp\DatabasesApp\obj\Debug\DatabasesApp.pdb

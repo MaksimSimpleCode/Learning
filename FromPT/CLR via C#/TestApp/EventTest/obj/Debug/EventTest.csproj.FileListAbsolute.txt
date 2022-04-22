@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\EventTest\bin\Debug\EventTest.exe.config
+D:\C#\CLR via C#\TestApp\EventTest\bin\Debug\EventTest.exe
+D:\C#\CLR via C#\TestApp\EventTest\bin\Debug\EventTest.pdb
+D:\C#\CLR via C#\TestApp\EventTest\obj\Debug\EventTest.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\EventTest\obj\Debug\EventTest.exe
+D:\C#\CLR via C#\TestApp\EventTest\obj\Debug\EventTest.pdb

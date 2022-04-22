@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\delegateTest\bin\Debug\delegateTest.exe.config
+D:\C#\CLR via C#\TestApp\delegateTest\bin\Debug\delegateTest.exe
+D:\C#\CLR via C#\TestApp\delegateTest\bin\Debug\delegateTest.pdb
+D:\C#\CLR via C#\TestApp\delegateTest\obj\Debug\delegateTest.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\delegateTest\obj\Debug\delegateTest.exe
+D:\C#\CLR via C#\TestApp\delegateTest\obj\Debug\delegateTest.pdb
+D:\C#\CLR via C#\TestApp\delegateTest\obj\Debug\delegateTest.csproj.AssemblyReference.cache

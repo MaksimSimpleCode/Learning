@@ -1,0 +1,7 @@
+D:\C#\Web\IP\bin\Debug\IP.exe.config
+D:\C#\Web\IP\bin\Debug\IP.exe
+D:\C#\Web\IP\bin\Debug\IP.pdb
+D:\C#\Web\IP\obj\Debug\IP.csproj.AssemblyReference.cache
+D:\C#\Web\IP\obj\Debug\IP.csproj.CoreCompileInputs.cache
+D:\C#\Web\IP\obj\Debug\IP.exe
+D:\C#\Web\IP\obj\Debug\IP.pdb

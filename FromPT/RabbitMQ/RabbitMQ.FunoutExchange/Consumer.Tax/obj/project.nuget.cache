@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3hTNg0Jjx5LwauY1BP0akWMu2/UBQJd58m1Ma0PxRVdsGLIKx4JFhHonvixxz5tW0JKRmcmntGE2wehqBj8wg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\RabbitMQ\\RabbitMQ.FunoutExchange\\Consumer.Tax\\Consumer.Tax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

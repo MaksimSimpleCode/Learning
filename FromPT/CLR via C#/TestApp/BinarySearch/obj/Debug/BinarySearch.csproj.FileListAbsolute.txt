@@ -1,0 +1,7 @@
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\bin\Debug\BinarySearch.exe
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\obj\Debug\BinarySearch.exe
+D:\Programming\C#\CLR via C#\TestApp\BinarySearch\obj\Debug\BinarySearch.pdb

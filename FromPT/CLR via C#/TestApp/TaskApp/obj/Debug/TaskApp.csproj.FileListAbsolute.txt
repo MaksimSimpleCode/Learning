@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\TaskApp\bin\Debug\TaskApp.exe.config
+D:\C#\CLR via C#\TestApp\TaskApp\bin\Debug\TaskApp.exe
+D:\C#\CLR via C#\TestApp\TaskApp\bin\Debug\TaskApp.pdb
+D:\C#\CLR via C#\TestApp\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\TaskApp\obj\Debug\TaskApp.exe
+D:\C#\CLR via C#\TestApp\TaskApp\obj\Debug\TaskApp.pdb

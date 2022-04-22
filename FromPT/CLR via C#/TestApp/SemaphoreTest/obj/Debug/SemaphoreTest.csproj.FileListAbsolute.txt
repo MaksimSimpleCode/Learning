@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\SemaphoreTest\bin\Debug\SemaphoreTest.exe.config
+D:\C#\CLR via C#\TestApp\SemaphoreTest\bin\Debug\SemaphoreTest.exe
+D:\C#\CLR via C#\TestApp\SemaphoreTest\bin\Debug\SemaphoreTest.pdb
+D:\C#\CLR via C#\TestApp\SemaphoreTest\obj\Debug\SemaphoreTest.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\SemaphoreTest\obj\Debug\SemaphoreTest.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\SemaphoreTest\obj\Debug\SemaphoreTest.exe
+D:\C#\CLR via C#\TestApp\SemaphoreTest\obj\Debug\SemaphoreTest.pdb

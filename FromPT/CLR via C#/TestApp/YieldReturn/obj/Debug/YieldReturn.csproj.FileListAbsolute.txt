@@ -1,0 +1,7 @@
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\bin\Debug\YieldReturn.exe.config
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\bin\Debug\YieldReturn.exe
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\bin\Debug\YieldReturn.pdb
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\obj\Debug\YieldReturn.csproj.AssemblyReference.cache
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\obj\Debug\YieldReturn.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\obj\Debug\YieldReturn.exe
+D:\Programming\C#\CLR via C#\TestApp\YieldReturn\obj\Debug\YieldReturn.pdb

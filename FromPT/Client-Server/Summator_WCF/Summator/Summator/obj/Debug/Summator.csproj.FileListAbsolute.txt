@@ -1,0 +1,6 @@
+D:\Programming\C#\Summator\Summator\bin\Debug\Summator.dll.config
+D:\Programming\C#\Summator\Summator\bin\Debug\Summator.dll
+D:\Programming\C#\Summator\Summator\bin\Debug\Summator.pdb
+D:\Programming\C#\Summator\Summator\obj\Debug\Summator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Summator\Summator\obj\Debug\Summator.dll
+D:\Programming\C#\Summator\Summator\obj\Debug\Summator.pdb

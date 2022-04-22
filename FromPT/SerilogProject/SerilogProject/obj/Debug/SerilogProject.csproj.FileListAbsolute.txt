@@ -1,0 +1,15 @@
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\SerilogProject.exe.config
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\SerilogProject.exe
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\SerilogProject.pdb
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.dll
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.Sinks.File.dll
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.xml
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.Sinks.File.pdb
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.Sinks.File.xml
+D:\Programming\C#\SerilogProject\SerilogProject\obj\Debug\SerilogProject.csproj.AssemblyReference.cache
+D:\Programming\C#\SerilogProject\SerilogProject\obj\Debug\SerilogProject.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SerilogProject\SerilogProject\obj\Debug\SerilogProject.csproj.CopyComplete
+D:\Programming\C#\SerilogProject\SerilogProject\obj\Debug\SerilogProject.exe
+D:\Programming\C#\SerilogProject\SerilogProject\obj\Debug\SerilogProject.pdb
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.Sinks.Console.dll
+D:\Programming\C#\SerilogProject\SerilogProject\bin\Debug\Serilog.Sinks.Console.xml

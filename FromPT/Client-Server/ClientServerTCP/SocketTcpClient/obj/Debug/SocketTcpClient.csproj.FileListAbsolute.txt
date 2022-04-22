@@ -1,0 +1,7 @@
+D:\C#\ClientServerTCP\SocketTcpClient\obj\Debug\SocketTcpClient.csproj.AssemblyReference.cache
+D:\C#\ClientServerTCP\SocketTcpClient\obj\Debug\SocketTcpClient.csproj.CoreCompileInputs.cache
+D:\C#\ClientServerTCP\SocketTcpClient\bin\Debug\SocketTcpClient.exe.config
+D:\C#\ClientServerTCP\SocketTcpClient\bin\Debug\SocketTcpClient.exe
+D:\C#\ClientServerTCP\SocketTcpClient\bin\Debug\SocketTcpClient.pdb
+D:\C#\ClientServerTCP\SocketTcpClient\obj\Debug\SocketTcpClient.exe
+D:\C#\ClientServerTCP\SocketTcpClient\obj\Debug\SocketTcpClient.pdb

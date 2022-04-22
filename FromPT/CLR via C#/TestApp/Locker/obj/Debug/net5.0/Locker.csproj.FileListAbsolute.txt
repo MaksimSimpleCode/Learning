@@ -1,0 +1,16 @@
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\Locker.exe
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\Locker.deps.json
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\Locker.runtimeconfig.json
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\Locker.runtimeconfig.dev.json
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\Locker.dll
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\ref\Locker.dll
+D:\C#\CLR via C#\TestApp\Locker\bin\Debug\net5.0\Locker.pdb
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.AssemblyInfoInputs.cache
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.AssemblyInfo.cs
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.dll
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\ref\Locker.dll
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.pdb
+D:\C#\CLR via C#\TestApp\Locker\obj\Debug\net5.0\Locker.genruntimeconfig.cache

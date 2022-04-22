@@ -1,0 +1,7 @@
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\bin\Debug\CreateTable.exe.config
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\bin\Debug\CreateTable.exe
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\bin\Debug\CreateTable.pdb
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\obj\Debug\CreateTable.csproj.AssemblyReference.cache
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\obj\Debug\CreateTable.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\obj\Debug\CreateTable.exe
+D:\Programming\C#\Databases\DatabasesApp\CreateTable\obj\Debug\CreateTable.pdb

@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\asTest\asTest\bin\Debug\asTest.exe.config
+D:\C#\CLR via C#\asTest\asTest\bin\Debug\asTest.exe
+D:\C#\CLR via C#\asTest\asTest\bin\Debug\asTest.pdb
+D:\C#\CLR via C#\asTest\asTest\obj\Debug\asTest.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\asTest\asTest\obj\Debug\asTest.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\asTest\asTest\obj\Debug\asTest.exe
+D:\C#\CLR via C#\asTest\asTest\obj\Debug\asTest.pdb

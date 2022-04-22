@@ -1,0 +1,11 @@
+D:\Programming\C#\Summator\SummatorHost\bin\Debug\SummatorHost.exe.config
+D:\Programming\C#\Summator\SummatorHost\bin\Debug\SummatorHost.exe
+D:\Programming\C#\Summator\SummatorHost\bin\Debug\SummatorHost.pdb
+D:\Programming\C#\Summator\SummatorHost\bin\Debug\Summator.dll
+D:\Programming\C#\Summator\SummatorHost\bin\Debug\Summator.pdb
+D:\Programming\C#\Summator\SummatorHost\bin\Debug\Summator.dll.config
+D:\Programming\C#\Summator\SummatorHost\obj\Debug\SummatorHost.csproj.AssemblyReference.cache
+D:\Programming\C#\Summator\SummatorHost\obj\Debug\SummatorHost.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Summator\SummatorHost\obj\Debug\SummatorHost.csproj.CopyComplete
+D:\Programming\C#\Summator\SummatorHost\obj\Debug\SummatorHost.exe
+D:\Programming\C#\Summator\SummatorHost\obj\Debug\SummatorHost.pdb

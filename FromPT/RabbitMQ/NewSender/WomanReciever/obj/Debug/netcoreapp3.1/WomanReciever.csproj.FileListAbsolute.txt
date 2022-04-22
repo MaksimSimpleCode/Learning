@@ -1,0 +1,17 @@
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\WomanReciever.exe
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\WomanReciever.deps.json
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\WomanReciever.runtimeconfig.json
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\WomanReciever.runtimeconfig.dev.json
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\WomanReciever.dll
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\WomanReciever.pdb
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.csproj.AssemblyReference.cache
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.AssemblyInfoInputs.cache
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.AssemblyInfo.cs
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.csproj.CoreCompileInputs.cache
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.csproj.CopyComplete
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.dll
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.pdb
+C:\Users\Igonina\source\repos\NewSender\WomanReciever\obj\Debug\netcoreapp3.1\WomanReciever.genruntimeconfig.cache

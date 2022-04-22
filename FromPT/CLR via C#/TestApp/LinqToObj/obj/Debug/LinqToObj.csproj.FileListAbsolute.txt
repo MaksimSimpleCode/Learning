@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\LinqToObj\bin\Debug\LinqToObj.exe.config
+D:\C#\CLR via C#\TestApp\LinqToObj\bin\Debug\LinqToObj.exe
+D:\C#\CLR via C#\TestApp\LinqToObj\bin\Debug\LinqToObj.pdb
+D:\C#\CLR via C#\TestApp\LinqToObj\obj\Debug\LinqToObj.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\LinqToObj\obj\Debug\LinqToObj.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\LinqToObj\obj\Debug\LinqToObj.exe
+D:\C#\CLR via C#\TestApp\LinqToObj\obj\Debug\LinqToObj.pdb
