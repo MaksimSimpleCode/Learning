@@ -1,0 +1,220 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" culture="en-US">
+<head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="fontiran.com:license" content="LAXSN" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Creatio
+</title>
+	<style>
+		.font-preload {
+			position: absolute;
+			opacity: 0;
+		}
+		.font-preload-open-sans {
+			font-family: "Bpmonline Open Sans";
+		}
+		.font-preload-open-sans-light {
+			font-family: "Bpmonline Open Sans Light";
+		}
+		.font-preload-open-sans-bold {
+			font-family: "Bpmonline Open Sans Bold";
+		}
+	</style>
+<script type="text/javascript">
+Terrasoft = window.Terrasoft || {};
+Terrasoft.appFramework = "NETFRAMEWORK";
+Terrasoft.coreVersion = "7.18.5.1500";
+Terrasoft.useClientPerformanceLogger = false;
+Terrasoft.configuration = Terrasoft.configuration || {};
+Terrasoft.configuration.Structures = Terrasoft.configuration.Structures || {};
+Terrasoft.useParallelSchemaBuilding = true;
+Terrasoft.showSessionEndNotification = false;
+Terrasoft.useWebSocketKeepAlive = true;
+Terrasoft.useStaticFileContent = false;
+Terrasoft.usePackageFileContent = true;
+Terrasoft.useGenerateModulePathes = true;
+Terrasoft.useNewRightsManagement = true;
+Terrasoft.useOffsetFetchPaging = false;
+Terrasoft.useMarkerValue = true;
+Terrasoft.enablePerformanceManager = false;
+Terrasoft.useSecureSettingsOnClient = false;
+Terrasoft.useSchemaUniqueNameRandomGenerator = true;
+Terrasoft.disableAspxErrorPage = true;
+Terrasoft.useAsyncStaticContentGeneration = true;
+var FileAPI = {
+	staticPath: "http://localhost:85//Resources/ui/FileAPI/",
+	flashUrl: "http://localhost:85//Resources/ui/FileAPI/FileAPI.flash.swf",
+	flashImageUrl: "http://localhost:85//Resources/ui/FileAPI/FileAPI.flash.image.swf" };
+Terrasoft.storesConfig = [];
+Terrasoft.storesConfig.push({levelName: 'ClientPageSession', type: 'Terrasoft.MemoryStore', isCache: true});
+Terrasoft.storesConfig.push({levelName: 'Domain', type: 'Terrasoft.LocalStore', isCache: true});
+if(Terrasoft.StoreManager){
+	Terrasoft.StoreManager.registerStores(Terrasoft.storesConfig);
+}
+Terrasoft.loaderBaseUrl = "http://localhost:85/";
+Terrasoft.workspaceBaseUrl = "http://localhost:85/";
+Terrasoft.coreModulesPath = 'core/hash/';Terrasoft.app = Terrasoft.app || {};
+Terrasoft.app.config = Terrasoft.app.config || {};
+Terrasoft.app.config.staticFileContent = Terrasoft.app.config.staticFileContent || {};
+Terrasoft.app.config.staticFileContent.imagesRuntimePath = 'conf/content/img';
+Terrasoft.app.config.staticFileContent.schemasRuntimePath = 'conf/content';
+Terrasoft.app.config.staticFileContent.resourcesRuntimePath = 'conf/content/resources';
+
+
+Terrasoft.showSelfRegistrationLink = true;</script>
+<script type="text/javascript">
+window.workspaceCount = 0;
+window.supportInfo = [];
+window.supportInfoCaption = '';
+window.importantLinks = [];
+window.importantLinksCaption = '';
+window.productVersion = '7.18.5.1500';
+window.loginTimeout = '30000';
+var Terrasoft = Terrasoft || {};
+window.isNtlmLoginVisible = false;
+window.isOpenIdLoginVisible = false;
+window.loginPageWidgetInfo = {visible: true, src: 'https://www.bpmonline.com/page/creatio/widget'}
+window.unsupportedBrowserInfo = { visible: true }
+window.loginImageUrl = '/terrasoft.axd?s=nui-binary-syssetting&r=LogoImage&source_hash=98b1b8112110361c36b8ab70d88db296';
+window.productVersion = '7.18.5.1500';
+</script>
+<script type="text/javascript" src="http://localhost:85//core-sl/851526dc5db90435038b708f7ad9de31/Terrasoft.Nui"></script>
+<script type="text/javascript">
+Terrasoft.loginUrl = 'http://localhost:85/ServiceModel/AuthService.svc/Login';
+Terrasoft.ntlmLoginUrl = 'http://localhost:85/Login/NuiLogin.aspx?ntlmlogin';
+Terrasoft.changePasswordUrl = 'http://localhost:85/ServiceModel/AuthService.svc/DoChangePasswordLogin';
+Terrasoft.simpleLoginTag = "simplelogin";
+Terrasoft.loginModulePath = 'http://localhost:85//core/cab68cf981c5c57700bb51729bd66954/Terrasoft/amd/';
+</script>
+<script type="text/javascript" src="http://localhost:85//core/db7fe0930e6258f01fb73405039cc9a5/normalize/classList-shim.js"></script>
+<script type="text/javascript" src="http://localhost:85//core/a2de79ad7a40d8fc81723c5ec4924f64/normalize/pathSeg-polyfill.js"></script>
+<script type="text/javascript">
+Terrasoft.fileContentDescriptorsFileExists = true;
+Terrasoft.fileContentBootstrapsFileExists = true;
+Terrasoft.currentUserCultureName = "en-US";
+</script>
+<script type="text/javascript" src="http://localhost:85//core/82582be2ea4244b8799f21ef78fd6a7f/combined/all-combined.js"></script>
+<link rel="stylesheet" type="text/css" href="http://localhost:85//core/618184e4bd438f8c5e43aa74aff1464a/combined/all-combined.css" />
+<link href="../terrasoft.axd?s=nui-binary-syssetting&r=FaviconImage&source_hash=b05a750c6b433c4fc47050e3d539139e" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<script type="text/javascript" src="http://localhost:85//core/057665f97324038f6c7c326b6734de6b/requirejs/require.js"></script>
+<script type="text/javascript">
+requirejs.config({
+	'paths': {
+		'require-config': 'http://localhost:85//core/c3b382519da9b15e207de6d13b5f07b1/Terrasoft/amd/require-config',
+		'require-url-config': 'http://localhost:85//core/967b00f40245f346c0fb1e09d597be51/Terrasoft/amd/require-url-config',
+		'core-base': 'http://localhost:85//core/d17ef52258a059bbfe965f70e14a8920/Terrasoft/amd/core-base',
+		'bootstrap': 'http://localhost:85//core/6290cba0af7874034f1ec28936bca13f/Terrasoft/amd/bootstrap',
+		'performanceLogger': 'http://localhost:85//core/cf23c4ee65b1c47840a78249f048d9e1/Terrasoft/amd/performanceLogger',
+		'performancecountermanager': 'http://localhost:85//core/e79de66acd39442acc1377a3c1710862/Terrasoft/amd/performancecountermanager',
+		'rxjs': 'http://localhost:85//core/3af6aa89d5864381a3fd9f1fe6785dab/Terrasoft/amd/rxjs',
+		'process-designer-component': 'http://localhost:85//core/5119e9df4aca8914fabf4effd4b3ee4b/Terrasoft/designers/process-designer-component/process-designer-component',
+		'voice-to-text-component': 'http://localhost:85//core/9df4cfbb9e9b64ef08efce6d7b673e3d/Terrasoft/controls/mixins/voice-to-text-button/voice-to-text-component',
+		'jQuery': 'http://localhost:85//core/f7072c6fb890cf46ab0e415e1c5edc0b/jQuery/jQuery-3.5.1',
+		'ckeditor-base': 'http://localhost:85//core/35294e09797b9d02519ddb8ec253cc67/CKEditor/ckeditor',
+		'html2canvas': 'http://localhost:85//core/6bd482f253bafa6d551a21a9d1c51589/html2canvas/html2canvas',
+		'login-view-utils': 'http://localhost:85//core/dac89c851a756ef023c909a162fe1bd0/Terrasoft/amd/login-view-utils',
+		'configuration-loader': 'http://localhost:85//core/2a08fc37afe007049254c67723a07b70/Terrasoft/amd/configuration-loader',
+		'configuration-bootstraps': 'http://localhost:85//core/0b716942a363fd530c825a6916ea3ebb/Terrasoft/amd/configuration-bootstraps',
+		'loadbootstrap': 'http://localhost:85//core/fb69c3378bd3bdd1dcaab52942c87fa6/Terrasoft/amd/bootstrap.login',
+		'chartjs': 'http://localhost:85//core/35da68cdf95e9468e2d8a3402ba29904/ng-core/src/chartjs',
+		'chartjs-label': 'http://localhost:85//core/0465154f993989d21ccc58b60b5eff82/Chartjs/chartjs-plugin-labels',
+		'chartjs-defaults': 'http://localhost:85//core/f5dcdb1296b21c01cb66773578fcdbdb/Chartjs/chartjs-defaults',
+		'chartjs-funnel': 'http://localhost:85//core/1d50b71dc2141b3e6bf11233f3110a03/ng-core/src/chartjs-funnel-plugin',
+		'chartjs-gauge': 'http://localhost:85//core/c69beeddee9d58074a185ac35ead686d/Chartjs/Gauge',
+		'user-agent': 'http://localhost:85//core/7b46df63a446479bad7a010aefae6d43/Terrasoft/utils/user-agent',
+		'user-agent-parser': 'http://localhost:85//core/796eff62f0f726654cfc29d4a77df334/user-agent-parser/user-agent-parser.min',
+		'ng-core': 'http://localhost:85//core/6cb28d63fbb28f9a3377feea3f9d8208/ng-core/src/main-es5',
+		'ng-loader': 'http://localhost:85//core/6eada957e17a6e76a7090421502adbbe/ng-core/ng-loader',
+		'ng-scripts': 'http://localhost:85//core/30950c16db19b349981dd6cd0b66a3b9/ng-core/src/scripts',
+		'ng-polyfills-es5': 'http://localhost:85//core/83382b3fa36e6adf19d56492fa6ed49d/ng-core/src/polyfills-es5',
+		'ng-polyfill-webcomp': 'http://localhost:85//core/ba560325babea1d1f73bcc2b076e6261/ng-core/src/polyfill-webcomp',
+		'numeral': 'http://localhost:85//core/b3ac42fc2efdd8256803f41aab702110/Numeral/numeral.min',
+		'@creatio/sdk': 'http://localhost:85//core/091860f68bd3d2e237f482f14c45829d/creatio-sdk/creatio-sdk.umd'
+	},
+	'shim': {
+		'chartjs-label': {
+			'deps': [
+				'chartjs'
+			]
+		},
+		'chartjs-defaults': {
+			'deps': [
+				'chartjs-label'
+			]
+		},
+		'chartjs-funnel': {
+			'deps': [
+				'chartjs'
+			]
+		},
+		'chartjs-gauge': {
+			'deps': [
+				'chartjs'
+			]
+		},
+		'user-agent': {
+			'deps': [
+				'user-agent-parser'
+			]
+		},
+		'ng-core': {
+			'deps': [
+				'ng-loader'
+			]
+		},
+		'ng-loader': {
+			'deps': [
+				'ng-scripts'
+			]
+		},
+		'ng-scripts': {
+			'deps': [
+				'ng-polyfills-es5',
+				'ng-polyfill-webcomp'
+			]
+		},
+		'process-designer-component': {
+			'deps': [
+				'ng-core'
+			]
+		},
+		'voice-to-text-component': {
+			'deps': [
+				'ng-core'
+			]
+		}
+	}
+});
+require(['loadbootstrap'], function() {});
+</script>
+<script type="text/javascript" src="http://localhost:85//core/f7072c6fb890cf46ab0e415e1c5edc0b/jQuery/jQuery-3.5.1.js"></script>
+<script type="text/javascript">
+console.warn('Creatio Debug mode is OFF. To switch ON use following code');
+console.log('Terrasoft.SysSettings.postPersonalSysSettingsValue("IsDebug", true)');
+Terrasoft.isDebug = false;</script>
+<script type="text/javascript">
+Terrasoft.DataValueTypeRange = {INTEGER: {maxValue:2147483647,minValue:-2147483648},FLOAT: {maxValue:79228162514264337593543950335,minValue:-79228162514264337593543950335},DATE_TIME: {maxValue:"9999-12-31T23:59:59.999",minValue:"0001-01-01T00:00:00.000"}};</script>
+<script type="text/javascript">
+Terrasoft.isSspInReadonlyMode = false;
+</script>
+<script type="text/javascript">
+let authErrorExceptions = Terrasoft.AuthErrorExceptions = {};
+authErrorExceptions[4] = 'Access denied. Contact your system administrator';
+authErrorExceptions[5] = 'Your password has expired. Re-set your password';
+authErrorExceptions[10] = 'Time zone is invalid.';
+authErrorExceptions[0] = 'Authorization failed';</script>
+</head>
+<body>
+	<div class="font-preload">
+		<span class="font-preload-open-sans">_</span>
+		<span class="font-preload-open-sans-light">_</span>
+		<span class="font-preload-open-sans-bold">_</span>
+	</div>
+	<form name="IndexForm" method="post" action="./NuiLogin.aspx?ReturnUrl=%2fLogin" id="IndexForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="fXKUyQgwz699p8Jl7S+YLIT7QhnxB0Lt1/vPbGNRVmjT7NqA3G+u6JBW+mK30FcJurOvRJZUgY/9HFoYpqdyjVKQEWwPOMCIblTGL27CHfc/P+ml" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0BFA92C5" />
+	</form>
+</body>
+</html>

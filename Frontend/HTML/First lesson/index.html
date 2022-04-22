@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Документ HTML5</title>
+    </head>
+    <body>
+			<div>Заголовок документа HTML5</div>
+			<div>
+				<p><span style="color:red;">Первый</span> параграф</p>
+				<p><span>Второй</span> параграф</p>
+				<p>span позволяет форматировать <span style="color:red;">фрагмент</span> текста</p>
+			</div>
+			<div>
+				<h1>Заголовок первого уровня</h1>
+				<h2>Заголовок второго уровня</h2>
+				<h3>Заголовок третьего уровня</h3>
+				<h4>Заголовок четвертого уровня</h4>
+				<h5>Заголовок пятого уровня</h5>
+				<h6>Заголовок шестого уровня</h6>
+			</div>
+			<div>
+				<p>Форматирование в <mark>HTML5</mark></p>
+				<p>Это <b>выделенный</b> текст</p>
+				<p>Это <strong>важный</strong> текст</p>
+				<p>Это <del>зачеркнутый</del> текст</p>
+				<p>Это <s>недействительный</s> текст</p>
+				<p>Это <em>важный</em> текст</p>
+				<p>Это текст <i>курсивом</i> </p>
+				<p>Это <ins>добавленный</ins> текст</p>
+				<p>Это <u>подчеркнутый</u> текст</p>
+				<p>X<sub>i</sub> = Y<sup><small>2</small></sup> + Z<sup><small>2</small></sup></p>
+			</div>
+		
+			<div>
+				<img src="image_test.jpg" alt="Тестовая картинка" style="float:right; margin-right:10px;" />
+				<h1>Lorem Ipsum</h1>
+				<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. 
+					Lorem Ipsum has been the industry....
+			</div>
+			<div>
+					<h2>Нумерованный список</h2>
+				<ol style="list-style-type:decimal;" start="3">
+					<li>iPhone 6S</li>
+					<li>Galaxy S7</li>
+					<li>Nexus 5X</li>
+					<li>Lumia 950</li>
+				</ol>
+			<h2>Ненумерованный список</h2>
+			<ul>
+				<li>iPhone 6S</li>
+				<li>Galaxy S7</li>
+				<li>Nexus 5X</li>
+				<li>Lumia 950</li>
+			</ul>
+			<ul style="list-style-image:url(название иконки);">
+				<li>iPhone 6S</li>
+				<li>Galaxy S7</li>
+				<li>Nexus 5X</li>
+				<li>Lumia 950</li>
+			</ul>
+		</div>
+		
+		<div>
+		<style>
+            ul#menu li {
+                display:inline;
+            }
+        </style>
+			<ul id="menu">
+				<li>Главная</li>
+				<li>Блог</li>
+				<li>Форум</li>
+				<li>О сайте</li>
+			</ul>
+		</div>
+		<div>
+		 <details>
+            <summary>Флагманы 2015</summary>
+            <ul>
+                <li>iPhone 6S Plus</li>
+                <li>Nexus 6P</li>
+                <li>Galaxy S6 Edge</li>
+                <li>Lumia 950 XL</li>
+            </ul>
+        </details>
+		</div>
+		<div>
+		  <dl>
+            <dt>Онтология</dt>
+            <dd>Раздел философии, изучающий фундаментальные принципы бытия</dd>
+            <dt>Гносеология</dt>
+            <dd>Философская дисциплина, занимающаяся исследованиями, критикой и теориями познания</dd>
+            <dt>Производственные отношения</dt>
+            <dd>Совокупность отношений между людьми, складывающихся в процессе общественного производства, 
+                обмена, распределения материальных благ и услуг.</dd>
+        </dl>
+		</div>
+		<div>
+			<table>
+				<caption><b>Популярные смартфоны 2015</b></caption>
+				<thead>
+					<tr>
+						<th>Модель</th> <th>Компания</th> <th>Цена</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Nexus 6P</td> <td>Huawei</td> <td>49000</td>
+					</tr>
+					<tr>
+						<td>iPhone 6S PLus</td> <td>Apple</td> <td>62000</td>
+					</tr>
+					<tr>
+						<td>Lumia 950 XL</td> <td>Microsoft</td> <td>35000</td>
+					</tr>
+				</tbody>
+				<tfoot>
+					<tr>
+						<th colspan="3">Информация по состоянию на 17 марта</th>
+					</tr>
+				</tfoot>
+		</table>
+		</div>	
+		<div>
+			<style>
+            td{
+                width: 60px; 
+                height:60px; 
+                border: solid 1px silver; 
+                text-align:center;
+            }
+			</style>
+			 <table>
+            <tr>
+                <td rowspan="2" style="background-color:green;">1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td colspan="2" style="background-color:red;">7</td>
+            </tr>
+        </table>
+		</div>
+			
+			<a href="http://metanit.com/web/html5/">Учебник по HTML5</a>
+		<div>
+				<a href="#paragraph1">Параграф 1</a> | <a href="#paragraph2">Параграф 2</a> | <a href="#paragraph3">Параграф 3</a>
+			<h2 id="paragraph1">Параграф 1</h2>
+			<p>Содержание параграфа 1</p>
+			<h2 id="paragraph2">Параграф 2</h2>
+			<p>Содержание параграфа 2</p>
+			<h2 id="paragraph3">Параграф 3</h2>
+			<p>Содержание параграфа 3</p>
+		</div>
+		<div>
+				
+			<a href="http://metanit.com/web/html5/" target="_blank">Учебник по HTML5</a> 
+		</div>
+		<div>
+			 <style>
+            a:link#linkk    {color:blue; text-decoration:none}
+            a:visited#linkk  {color:pink; text-decoration:none}
+            a:hover#linkk   {color:red; text-decoration:underline}
+            a:active#linkk  {color:yellow; text-decoration:underline}
+			</style>
+		</div>
+		<div>
+			<a id ="linkk" href="http://metanit.com/web/html5/" target="_blank">Учебник по HTML5</a> 
+		</div>
+		<div>
+			<h2>Фреймы в HTML 5</h2>
+			<h2>Элемент iframe</h2>
+			<iframe src="http://wikipedia.com" width="1024" height="920">
+			</iframe>
+		</div>
+		<div>
+		<h2>Формы</h2>
+			<form method="post" autocomplete="off" action="http://localhost:8080/login.php">
+			<input name="login" />
+			<input name="password" autocomplete="on" />
+			<input type="submit" value="Войти" />
+			</form>
+		</div>
+		<div>
+			<h2>Эллементы форм</h2>
+			<form method="get" action="index.html">
+				<input type="text" name="login" value="Tom"/>
+				<input type="password" name="password"/>
+				<input type="submit" value="Войти" />
+			</form>
+		</div>
+		<div>
+			<form>
+            <p><input type="text" name="login"/></p>
+            <p><input type="password" name="password"/></p>
+            <p>
+                <button type="submit" formmethod="get" formaction="index.html">Отправить</button> 
+                <button type="reset">Отмена</button>
+            </p>
+		</div>
+		<div>
+			<form>
+            <p><input type="text" name="userName" placeholder="Введите имя" size="18" /></p>
+            <p><input type="text" name="userPhone" placeholder="Введите номер телефона" size="18" maxlength="11" /></p>
+            <p>
+                <button type="submit">Отправить</button> 
+                <button type="reset">Отмена</button>
+            </p>
+			</form>
+		</div>
+		<div>
+			 <form>
+            <p><input list="phonesList" type="text" name="model" placeholder="Введите модель" /></p>
+            <p>
+                <button type="submit">Отправить</button>
+            </p>
+        </form>
+        <datalist id="phonesList">
+            <option value="iPhone 6S" label="54000"/>
+            <option value="Lumia 950">35000</option>
+            <option value="Nexus 5X"/>
+        </datalist>
+  
+		</div><form>
+            <p>
+                <label for="login">Логин: </label>
+                <input type="text" id="login" name="login" />
+            </p>
+            <p>
+                <label for="password">Пароль: </label>
+                <input type="password" id="password" name="password" />
+            </p>
+            <p>
+                <button type="submit">Отправить</button>
+            </p>
+        </form><div>
+			
+		</div> <h2>Чек боксы</h2>
+        <form>
+            <p>
+                <input type="checkbox" checked name="html5"/>HTML5
+            </p>
+            <p>
+                <input type="checkbox" name="dotnet"/>.NET
+            </p>
+            <p>
+                <input type="checkbox" name="java"/>Java
+            </p>
+            <p>
+                <button type="submit">Отправить</button>
+            </p>
+        </form>
+    </body><div>
+			
+		</div> <form>
+            <h2>Укажите пол</h2>
+            <p>
+                <input type="radio" value="man" checked name="gender"/>мужской
+            </p>
+            <p>
+                <input type="radio" value="woman" name="gender"/>женский
+            </p>
+            <h2>Выберите технологию</h2>
+            <p>
+                <input type="radio" value="html5" checked name="tech"/>HTML5
+            </p>
+            <p>
+                <input type="radio" value="net" name="tech"/>.NET
+            </p>
+            <p>
+                <input type="radio" value="java" name="tech"/>Java
+            </p>
+            <p>
+                <button type="submit">Отправить</button>
+            </p>
+        </form>
+		<div>
+			<form>
+            <p>
+                <label for="email">Email: </label>
+                <input type="email" placeholder="user@gmail.com" id="email" name="email"/>
+            </p>
+            <p>
+                <label for="url">URL: </label>
+                <input type="url" id="url" name="url"/>
+            </p>
+            <p>
+                <label for="phone">Телефон: </label>
+                <input type="tel" placeholder="(XXX)-XXX-XXXX" id="phone" name="phone"/>
+            </p>
+            <p>
+                <button type="submit">Отправить</button>
+            </p>
+        </form>
+		</div
+		div>
+			
+		</div>
+		<div>
+			
+		</div>
+		<div>
+			
+		</div>
+		<div>
+			
+		</div>
+		<div>
+			
+		</div>
+    </body>
+</html>
