@@ -1,0 +1,7 @@
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\bin\Debug\Product.exe.config
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\bin\Debug\Product.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\bin\Debug\Product.pdb
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\obj\Debug\Product.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Product\obj\Debug\Product.pdb
