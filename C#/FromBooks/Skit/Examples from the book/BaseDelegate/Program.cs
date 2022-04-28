@@ -10,6 +10,7 @@ namespace BaseDelegate
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

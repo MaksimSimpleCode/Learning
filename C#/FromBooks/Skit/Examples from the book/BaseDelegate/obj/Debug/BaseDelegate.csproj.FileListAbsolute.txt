@@ -1,0 +1,6 @@
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\BaseDelegate\bin\Debug\BaseDelegate.exe.config
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\BaseDelegate\bin\Debug\BaseDelegate.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\BaseDelegate\bin\Debug\BaseDelegate.pdb
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\BaseDelegate\obj\Debug\BaseDelegate.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\BaseDelegate\obj\Debug\BaseDelegate.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\BaseDelegate\obj\Debug\BaseDelegate.pdb
