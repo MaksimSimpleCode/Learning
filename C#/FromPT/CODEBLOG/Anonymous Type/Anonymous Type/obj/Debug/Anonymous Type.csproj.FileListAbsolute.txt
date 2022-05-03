@@ -1,0 +1,10 @@
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\bin\Debug\Anonymous Type.exe.config
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\bin\Debug\Anonymous Type.exe
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\bin\Debug\Anonymous Type.pdb
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\obj\Debug\Anonymous Type.csproj.AssemblyReference.cache
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\obj\Debug\Anonymous Type.csproj.CoreCompileInputs.cache
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\obj\Debug\Anonymous Type.exe
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\obj\Debug\Anonymous Type.pdb
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\bin\Debug\System.ValueTuple.dll
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\bin\Debug\System.ValueTuple.xml
+D:\C#\CODEBLOG\Anonymous Type\Anonymous Type\obj\Debug\Anonymous Type.csproj.CopyComplete

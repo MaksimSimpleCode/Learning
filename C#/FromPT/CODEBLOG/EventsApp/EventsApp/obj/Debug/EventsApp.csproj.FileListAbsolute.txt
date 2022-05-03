@@ -1,0 +1,7 @@
+D:\C#\CODEBLOG\EventsApp\EventsApp\bin\Debug\EventsApp.exe.config
+D:\C#\CODEBLOG\EventsApp\EventsApp\bin\Debug\EventsApp.exe
+D:\C#\CODEBLOG\EventsApp\EventsApp\bin\Debug\EventsApp.pdb
+D:\C#\CODEBLOG\EventsApp\EventsApp\obj\Debug\EventsApp.csproj.AssemblyReference.cache
+D:\C#\CODEBLOG\EventsApp\EventsApp\obj\Debug\EventsApp.csproj.CoreCompileInputs.cache
+D:\C#\CODEBLOG\EventsApp\EventsApp\obj\Debug\EventsApp.exe
+D:\C#\CODEBLOG\EventsApp\EventsApp\obj\Debug\EventsApp.pdb

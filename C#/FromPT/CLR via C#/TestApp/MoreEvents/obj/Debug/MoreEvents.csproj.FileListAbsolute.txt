@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\MoreEvents\bin\Debug\MoreEvents.exe.config
+D:\C#\CLR via C#\TestApp\MoreEvents\bin\Debug\MoreEvents.exe
+D:\C#\CLR via C#\TestApp\MoreEvents\bin\Debug\MoreEvents.pdb
+D:\C#\CLR via C#\TestApp\MoreEvents\obj\Debug\MoreEvents.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\MoreEvents\obj\Debug\MoreEvents.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\MoreEvents\obj\Debug\MoreEvents.exe
+D:\C#\CLR via C#\TestApp\MoreEvents\obj\Debug\MoreEvents.pdb

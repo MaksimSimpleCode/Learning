@@ -1,0 +1,7 @@
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\obj\Debug\StoredProcedure.csproj.AssemblyReference.cache
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\obj\Debug\StoredProcedure.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\bin\Debug\StoredProcedure.exe.config
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\bin\Debug\StoredProcedure.exe
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\bin\Debug\StoredProcedure.pdb
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\obj\Debug\StoredProcedure.exe
+D:\Programming\C#\Databases\DatabasesApp\StoredProcedure\obj\Debug\StoredProcedure.pdb

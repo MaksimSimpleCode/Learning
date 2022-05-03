@@ -1,0 +1,14 @@
+D:\C#\Web\SocketServer\bin\Debug\SocketServer.exe.config
+D:\C#\Web\SocketServer\bin\Debug\SocketServer.exe
+D:\C#\Web\SocketServer\bin\Debug\SocketServer.pdb
+D:\C#\Web\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\C#\Web\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\C#\Web\SocketServer\obj\Debug\SocketServer.exe
+D:\C#\Web\SocketServer\obj\Debug\SocketServer.pdb
+D:\Programming\C#\Client-Service\Web\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Programming\C#\Client-Service\Web\SocketServer\bin\Debug\SocketServer.exe
+D:\Programming\C#\Client-Service\Web\SocketServer\bin\Debug\SocketServer.pdb
+D:\Programming\C#\Client-Service\Web\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\Programming\C#\Client-Service\Web\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Client-Service\Web\SocketServer\obj\Debug\SocketServer.exe
+D:\Programming\C#\Client-Service\Web\SocketServer\obj\Debug\SocketServer.pdb

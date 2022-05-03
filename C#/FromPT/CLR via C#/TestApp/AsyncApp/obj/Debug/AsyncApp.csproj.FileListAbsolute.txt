@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\AsyncApp\bin\Debug\AsyncApp.exe.config
+D:\C#\CLR via C#\TestApp\AsyncApp\bin\Debug\AsyncApp.exe
+D:\C#\CLR via C#\TestApp\AsyncApp\bin\Debug\AsyncApp.pdb
+D:\C#\CLR via C#\TestApp\AsyncApp\obj\Debug\AsyncApp.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\AsyncApp\obj\Debug\AsyncApp.exe
+D:\C#\CLR via C#\TestApp\AsyncApp\obj\Debug\AsyncApp.pdb
+D:\C#\CLR via C#\TestApp\AsyncApp\obj\Debug\AsyncApp.csproj.AssemblyReference.cache

@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\Проект для Azure\\SportsStore\\SportsStore\\SportsStore.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\Проект для Azure\\SportsStore\\SportsStore\\SportsStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\Проект для Azure\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectName": "SportsStore",
+        "projectPath": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\Проект для Azure\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "packagesPath": "C:\\Users\\gusev\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\Проект для Azure\\SportsStore\\SportsStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FontAwesome": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "jQuery.Validation": {
+              "target": "Package",
+              "version": "[1.19.3, )"
+            },
+            "jQuery.Validation.Unobtrusive": {
+              "target": "Package",
+              "version": "[2.0.20710, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

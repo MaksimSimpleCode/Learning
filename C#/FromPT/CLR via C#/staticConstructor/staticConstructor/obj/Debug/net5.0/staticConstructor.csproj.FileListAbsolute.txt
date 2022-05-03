@@ -1,0 +1,16 @@
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\staticConstructor.exe
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\staticConstructor.deps.json
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\staticConstructor.runtimeconfig.json
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\staticConstructor.runtimeconfig.dev.json
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\staticConstructor.dll
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\ref\staticConstructor.dll
+D:\C#\CLR via C#\staticConstructor\staticConstructor\bin\Debug\net5.0\staticConstructor.pdb
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.AssemblyInfoInputs.cache
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.AssemblyInfo.cs
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.dll
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\ref\staticConstructor.dll
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.pdb
+D:\C#\CLR via C#\staticConstructor\staticConstructor\obj\Debug\net5.0\staticConstructor.genruntimeconfig.cache

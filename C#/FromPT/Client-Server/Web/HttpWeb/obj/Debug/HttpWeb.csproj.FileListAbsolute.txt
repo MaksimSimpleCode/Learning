@@ -1,0 +1,7 @@
+D:\C#\Web\HttpWeb\bin\Debug\HttpWeb.exe.config
+D:\C#\Web\HttpWeb\bin\Debug\HttpWeb.exe
+D:\C#\Web\HttpWeb\bin\Debug\HttpWeb.pdb
+D:\C#\Web\HttpWeb\obj\Debug\HttpWeb.csproj.AssemblyReference.cache
+D:\C#\Web\HttpWeb\obj\Debug\HttpWeb.csproj.CoreCompileInputs.cache
+D:\C#\Web\HttpWeb\obj\Debug\HttpWeb.exe
+D:\C#\Web\HttpWeb\obj\Debug\HttpWeb.pdb

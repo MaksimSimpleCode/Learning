@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\TestArrayByte\bin\Debug\TestArrayByte.exe.config
+D:\C#\CLR via C#\TestApp\TestArrayByte\bin\Debug\TestArrayByte.exe
+D:\C#\CLR via C#\TestApp\TestArrayByte\bin\Debug\TestArrayByte.pdb
+D:\C#\CLR via C#\TestApp\TestArrayByte\obj\Debug\TestArrayByte.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\TestArrayByte\obj\Debug\TestArrayByte.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\TestArrayByte\obj\Debug\TestArrayByte.exe
+D:\C#\CLR via C#\TestApp\TestArrayByte\obj\Debug\TestArrayByte.pdb

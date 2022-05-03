@@ -1,0 +1,25 @@
+﻿@model Product
+<div class="card card-outline-primary m-1 p-l">
+    <div class="bg-faded p-l">
+        <h4>
+            @Model.Name
+            <span class="badge badge-pill badge-primary" style="float:right">
+                <small>@Model.Price.ToString("c")</small>
+            </span>
+        </h4>
+    </div>
+    <!-- <div class="card-text p-1">@Model.Description</div>--> <!--Дублировалось описание-->
+    <form id="@Model.ProductID" asp-action="AddToCart"
+          asp-controller="Cart" method="post">
+        <input type="hidden" asp-for="ProductID" />
+        <input type="hidden" name="returnUrl"
+               value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+        <span class="card-text p-l">
+            @Model.Description
+            <button type="submit"
+                    class="btn btn-success btn-sm pull-right" style="float:right">
+                Add То Cart
+            </button>
+        </span>
+    </form>
+</div>

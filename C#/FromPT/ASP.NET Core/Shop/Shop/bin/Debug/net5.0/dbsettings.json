@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server = DESKTOP-01;Database=Shop;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}

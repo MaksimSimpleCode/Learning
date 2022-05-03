@@ -1,0 +1,7 @@
+D:\Programming\C#\UnitTests\UnitTests\bin\Debug\UnitTests.exe.config
+D:\Programming\C#\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+D:\Programming\C#\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+D:\Programming\C#\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+D:\Programming\C#\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Programming\C#\UnitTests\UnitTests\obj\Debug\UnitTests.exe
+D:\Programming\C#\UnitTests\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXeT/vsq7EJDibQjnZ85qwy6updL5uqZI+xmTmL9c/VXA5vtPzMKN3rksIRHPK6mpYZlEVQkRdI1612YgPTBYg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\NewSender\\ManReciever\\ManReciever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

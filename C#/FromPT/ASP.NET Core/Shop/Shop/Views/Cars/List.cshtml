@@ -1,0 +1,14 @@
+﻿
+@*@{ Мы создали _ViewStart по этому  по дефолту будет использоватся для всех методов из контроллера. Но если хотим другой шаблон, думаю можно явно указать какой
+        Layout = "_Layout";     //Используем шаблон из пабки View.Shared. Все что ниже будет добавлено в блок RenderBody()
+    }*@
+
+<h2>Все автомобили</h2>
+<h3>@Model.currCategory</h3>
+<div class="row mt-5 mb -2">
+    @{ foreach (Car car in Model.allCars)
+        {
+          @Html.Partial("AllCars",car)
+        }
+    }
+</div>

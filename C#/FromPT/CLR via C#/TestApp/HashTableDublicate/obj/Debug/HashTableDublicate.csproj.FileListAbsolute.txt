@@ -1,0 +1,7 @@
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\bin\Debug\HashTableDublicate.exe.config
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\bin\Debug\HashTableDublicate.exe
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\bin\Debug\HashTableDublicate.pdb
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\obj\Debug\HashTableDublicate.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\obj\Debug\HashTableDublicate.exe
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\obj\Debug\HashTableDublicate.pdb
+D:\Programming\C#\CLR via C#\TestApp\HashTableDublicate\obj\Debug\HashTableDublicate.csproj.AssemblyReference.cache

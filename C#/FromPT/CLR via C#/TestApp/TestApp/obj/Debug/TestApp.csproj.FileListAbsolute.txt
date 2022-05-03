@@ -1,0 +1,7 @@
+D:\C#\CLR via C#\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\C#\CLR via C#\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\C#\CLR via C#\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\C#\CLR via C#\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+D:\C#\CLR via C#\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\C#\CLR via C#\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\C#\CLR via C#\TestApp\TestApp\obj\Debug\TestApp.pdb

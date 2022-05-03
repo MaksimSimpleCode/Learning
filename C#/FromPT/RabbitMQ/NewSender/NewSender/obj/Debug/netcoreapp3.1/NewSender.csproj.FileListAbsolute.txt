@@ -1,0 +1,17 @@
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\NewSender.exe
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\NewSender.deps.json
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\NewSender.runtimeconfig.json
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\NewSender.runtimeconfig.dev.json
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\NewSender.dll
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\NewSender.pdb
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Igonina\source\repos\NewSender\NewSender\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.csproj.AssemblyReference.cache
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.AssemblyInfoInputs.cache
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.AssemblyInfo.cs
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.csproj.CoreCompileInputs.cache
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.csproj.CopyComplete
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.dll
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.pdb
+C:\Users\Igonina\source\repos\NewSender\NewSender\obj\Debug\netcoreapp3.1\NewSender.genruntimeconfig.cache

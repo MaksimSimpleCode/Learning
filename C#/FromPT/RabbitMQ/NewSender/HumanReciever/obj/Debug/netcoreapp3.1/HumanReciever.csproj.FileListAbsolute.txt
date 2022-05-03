@@ -1,0 +1,17 @@
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\HumanReciever.exe
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\HumanReciever.deps.json
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\HumanReciever.runtimeconfig.json
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\HumanReciever.runtimeconfig.dev.json
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\HumanReciever.dll
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\HumanReciever.pdb
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.csproj.AssemblyReference.cache
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.AssemblyInfoInputs.cache
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.AssemblyInfo.cs
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.csproj.CoreCompileInputs.cache
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.csproj.CopyComplete
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.dll
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.pdb
+C:\Users\Igonina\source\repos\NewSender\HumanReciever\obj\Debug\netcoreapp3.1\HumanReciever.genruntimeconfig.cache

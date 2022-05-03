@@ -1,0 +1,7 @@
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\bin\Debug\IEnumeravleAndIEnumerator.exe.config
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\bin\Debug\IEnumeravleAndIEnumerator.exe
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\bin\Debug\IEnumeravleAndIEnumerator.pdb
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\obj\Debug\IEnumeravleAndIEnumerator.csproj.AssemblyReference.cache
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\obj\Debug\IEnumeravleAndIEnumerator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\obj\Debug\IEnumeravleAndIEnumerator.exe
+D:\Programming\C#\CLR via C#\TestApp\IEnumeravleAndIEnumerator\obj\Debug\IEnumeravleAndIEnumerator.pdb

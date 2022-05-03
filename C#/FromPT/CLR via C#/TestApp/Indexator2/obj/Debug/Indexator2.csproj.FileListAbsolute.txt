@@ -1,0 +1,6 @@
+D:\Programming\C#\CLR via C#\TestApp\Indexator2\bin\Debug\Indexator2.exe.config
+D:\Programming\C#\CLR via C#\TestApp\Indexator2\bin\Debug\Indexator2.exe
+D:\Programming\C#\CLR via C#\TestApp\Indexator2\bin\Debug\Indexator2.pdb
+D:\Programming\C#\CLR via C#\TestApp\Indexator2\obj\Debug\Indexator2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CLR via C#\TestApp\Indexator2\obj\Debug\Indexator2.exe
+D:\Programming\C#\CLR via C#\TestApp\Indexator2\obj\Debug\Indexator2.pdb

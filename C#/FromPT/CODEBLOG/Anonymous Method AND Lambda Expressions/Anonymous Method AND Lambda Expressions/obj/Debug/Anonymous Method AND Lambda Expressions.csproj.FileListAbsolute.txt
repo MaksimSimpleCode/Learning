@@ -1,0 +1,7 @@
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\bin\Debug\Anonymous Method AND Lambda Expressions.exe.config
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\bin\Debug\Anonymous Method AND Lambda Expressions.exe
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\bin\Debug\Anonymous Method AND Lambda Expressions.pdb
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\obj\Debug\Anonymous Method AND Lambda Expressions.csproj.AssemblyReference.cache
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\obj\Debug\Anonymous Method AND Lambda Expressions.csproj.CoreCompileInputs.cache
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\obj\Debug\Anonymous Method AND Lambda Expressions.exe
+D:\C#\CODEBLOG\Anonymous Method AND Lambda Expressions\Anonymous Method AND Lambda Expressions\obj\Debug\Anonymous Method AND Lambda Expressions.pdb
