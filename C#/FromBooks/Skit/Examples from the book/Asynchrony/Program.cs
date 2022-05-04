@@ -54,16 +54,6 @@ namespace Asynchrony
         {
           return  await Task.Run(() => Calculate(x));
         }
-
-        static async Task<double> Calculate2(int x)
-        {
-            await Task.Delay(0);    //Имитация длительной работы
-            return Math.Pow(x, x);
-        }
-        static async Task CalculateAsync2(int x)
-        {
-            var task= await Calculate2(x);
-        }
     }
 
 
