@@ -31,6 +31,7 @@ namespace Asynchrony
             double pow = await CalculateAsync(2);   //Благодаря тому что метод Main async, мы можем применить await к методу CalculateAsync,                   
             Console.WriteLine(pow);                 //тем самым автоматически распоковаов результат метода.Иначе пришлось использовать Result.
 
+            double pow2 = CalculateAsync(2).Result; //Второй способ получения значения, например в случае если бы Main не был async
             Console.ReadLine();
         }
         static void Print(int x)
@@ -55,6 +56,4 @@ namespace Asynchrony
           return  await Task.Run(() => Calculate(x));
         }
     }
-
-
 }
