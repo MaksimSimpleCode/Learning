@@ -1,0 +1,7 @@
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\bin\Debug\LambdaExpression.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\bin\Debug\LambdaExpression.pdb
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\obj\Debug\LambdaExpression.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\LambdaExpression\obj\Debug\LambdaExpression.pdb

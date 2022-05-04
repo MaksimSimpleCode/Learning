@@ -1,0 +1,7 @@
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\bin\Debug\Generic.exe.config
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\bin\Debug\Generic.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\bin\Debug\Generic.pdb
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\obj\Debug\Generic.exe
+D:\Programming\Learning\C#\FromBooks\Skit\Examples from the book\Generic\obj\Debug\Generic.pdb
