@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObj", "LinqToObj\LinqToObj.csproj", "{B6219CD5-E9B2-4607-9D29-37C6EC1FC4AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchrony", "Asynchrony\Asynchrony.csproj", "{6930902F-67EA-4BD1-88DE-C314B103B488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B6219CD5-E9B2-4607-9D29-37C6EC1FC4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6219CD5-E9B2-4607-9D29-37C6EC1FC4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6219CD5-E9B2-4607-9D29-37C6EC1FC4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6930902F-67EA-4BD1-88DE-C314B103B488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930902F-67EA-4BD1-88DE-C314B103B488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930902F-67EA-4BD1-88DE-C314B103B488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930902F-67EA-4BD1-88DE-C314B103B488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
