@@ -1,0 +1,16 @@
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\TestCompare.exe
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\TestCompare.deps.json
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\TestCompare.runtimeconfig.json
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\TestCompare.runtimeconfig.dev.json
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\TestCompare.dll
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\ref\TestCompare.dll
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\bin\Debug\net5.0\TestCompare.pdb
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.csproj.AssemblyReference.cache
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.AssemblyInfoInputs.cache
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.AssemblyInfo.cs
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.csproj.CoreCompileInputs.cache
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.dll
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\ref\TestCompare.dll
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.pdb
+A:\Programming\C#\Learning\C#\TestCompare\TestCompare\obj\Debug\net5.0\TestCompare.genruntimeconfig.cache
