@@ -1,0 +1,7 @@
+D:\Programming\Learning\C#\StreamTest\StreamTest\obj\Debug\StreamTest.csproj.AssemblyReference.cache
+D:\Programming\Learning\C#\StreamTest\StreamTest\obj\Debug\StreamTest.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C#\StreamTest\StreamTest\bin\Debug\StreamTest.exe.config
+D:\Programming\Learning\C#\StreamTest\StreamTest\bin\Debug\StreamTest.exe
+D:\Programming\Learning\C#\StreamTest\StreamTest\bin\Debug\StreamTest.pdb
+D:\Programming\Learning\C#\StreamTest\StreamTest\obj\Debug\StreamTest.exe
+D:\Programming\Learning\C#\StreamTest\StreamTest\obj\Debug\StreamTest.pdb
