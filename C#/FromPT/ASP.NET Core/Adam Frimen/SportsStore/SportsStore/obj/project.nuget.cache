@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q+yFzDAseTUmqtSZ9Qy2pPe/dpYvyGU66EEZ2E6GWJFd4bITAwzqMO0eJJnDSY40IZwI4HWqMgkxtQ+4rkasXQ==",
+  "dgSpecHash": "c7g0TBNE2YY7r9q79VBQEv0fARqiCoif7B2e6wHZZkcd0tLdApmS2iDd6jigdnzk9AsTqem0NlqVgox+LZyqTA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\SportsStore\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "D:\\Programming\\Learning\\C#\\FromPT\\ASP.NET Core\\Adam Frimen\\SportsStore\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusev\\.nuget\\packages\\bootstrap\\4.0.0\\bootstrap.4.0.0.nupkg.sha512",
     "C:\\Users\\gusev\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",

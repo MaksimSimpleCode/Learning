@@ -8274,11 +8274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "D:\\Programming\\Learning\\C#\\FromPT\\ASP.NET Core\\Adam Frimen\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "D:\\Programming\\Learning\\C#\\FromPT\\ASP.NET Core\\Adam Frimen\\SportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\gusev\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\ASP.NET CORE\\Adam Frimen\\SportsStore\\SportsStore\\obj\\",
+      "outputPath": "D:\\Programming\\Learning\\C#\\FromPT\\ASP.NET Core\\Adam Frimen\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusev\\AppData\\Roaming\\NuGet\\NuGet.Config",
