@@ -16,31 +16,13 @@
   grid-template-rows: 60px 1fr;
   grid-template-columns: 2fr 10fr;
   /* grid-gap: 10px; */
-
 }
 
-.header {
-  grid-area: h;
-  background-color: green;
-
-}
-
-.header img {
-  width: 100px;
-}
-
-.nav {
-  grid-area: n;
-  background-color: purple;
-}
-
-.content {
+.app-wrapper-content {
   grid-area: c;
-  background-color: red;
+  background-color: cornflowerblue;
+  
 }
-
-
-
 
 .App-logo {
   height: 40vmin;
