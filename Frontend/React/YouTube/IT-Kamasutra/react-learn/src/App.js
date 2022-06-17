@@ -13,16 +13,11 @@ function App(props) {
       <div className='app-wrapper'>
         <Header />
         <Navbar />
-
         <div className='app-wrapper-content'>
           <Routes>
-            {/* <Route path='/profile' element={<Profile />} />
-            <Route path='/dialogs' element={<Dialogs />} />
-            <Route path='dialogs/*' element={<Dialogs />} /> */}
-              
-            <Route path="/profile" element={<Profile state={props.state.profilePage} />} />
+            <Route path="/profile" element={<Profile profilePage={props.state.profilePage}dispatch={props.dispatch} />} />
             <Route path="/dialogs" element={<Dialogs state={props.state.dialogPage} />} />
-            <Route path='dialogs/*' element={<Dialogs />} /> 
+            <Route path='dialogs/*' element={<Dialogs />} />
           </Routes>
         </div>
       </div>
