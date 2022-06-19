@@ -6,24 +6,26 @@ import { addMessageActionCreator, updateNewMessageTextActionCreator } from '../.
 
 
 const Dialogs = (props) => {
+    
 
     let mapDialogsData =
-        props.state.dialogs.map((dialog) => {
+    
+        props.dialogPage.dialogs.map((dialog) => {
             return <DialogItem name={dialog.name} id={dialog.id} />
         });
 
     let mapMessagesData =
-        props.state.messages.map((message) => {
+        props.dialogPage.messages.map((message) => {
             return <Message message={message.message} />
         });
 
-
+       
     let onNewMessageChange = (e) => {
         let text = e.target.value;
-        props.dispatch(updateNewMessageTextActionCreator(text))
+        props.updateNewMessageBody(text);
     }
     let onSendMessageClick = () => {
-        props.dispatch(addMessageActionCreator())
+        props.sendMessage();
     }
 
 
@@ -36,7 +38,7 @@ const Dialogs = (props) => {
                 <div>{mapMessagesData}</div>
                 <div>
                     <div>
-                        <textarea onChange={onNewMessageChange} placeholder='Enter new message' value={props.state.newMessageText} />
+                        <textarea onChange={onNewMessageChange} placeholder='Enter new message' value={props.newMessageText} />
                     </div>
                     <div>
                         <button onClick={onSendMessageClick}>Отправить сообщение</button>
