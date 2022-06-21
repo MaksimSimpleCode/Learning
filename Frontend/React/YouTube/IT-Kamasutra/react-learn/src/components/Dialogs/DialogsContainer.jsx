@@ -2,7 +2,7 @@ import { sendMessageActionCreator, updateNewMessageTextActionCreator } from '../
 import Dialogs from './Dialogs';
 import { connect } from 'react-redux';
 
-
+//Эта штука мапит пропсы в презентационную компоненту
 let mapStateToProps=(state)=>{
     return{
         dialogPage:state.dialogPage

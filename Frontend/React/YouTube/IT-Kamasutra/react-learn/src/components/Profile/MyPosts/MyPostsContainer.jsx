@@ -2,7 +2,7 @@ import { addPostActionCreator, updateNewPostTextActionCreator } from '../../../r
 import MyPosts from './MyPosts';
 import { connect } from 'react-redux';
 
-
+//Эта штука мапит пропсы в презентационную компоненту
 let mapStateToProps = (state) => {
     return {
         posts: state.profilePage.posts,
