@@ -5,25 +5,20 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import { Provider } from 'react-redux';
+import {BrowserRouter} from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
- let renderEntrieTree = (state) => {
   root.render(
-    <React.StrictMode>
-      <App state={state}  store ={store}
-      dispatch={store.dispatch.bind(store)}  />
-    </React.StrictMode>
+    <BrowserRouter>
+      <React.StrictMode>
+        <Provider store={store}>
+          <App />
+        </Provider>
+      </React.StrictMode>
+    </BrowserRouter>
   );
-}
-
-
-renderEntrieTree(store.getState());
-store.subscribe(()=>{
-  let state = store.getState();
-  renderEntrieTree(state);
-});
-
 
 
 

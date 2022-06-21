@@ -11,12 +11,12 @@ const Dialogs = (props) => {
     let mapDialogsData =
     
         props.dialogPage.dialogs.map((dialog) => {
-            return <DialogItem name={dialog.name} id={dialog.id} />
+            return <DialogItem key = {dialog.id} name={dialog.name} id={dialog.id} />
         });
 
     let mapMessagesData =
         props.dialogPage.messages.map((message) => {
-            return <Message message={message.message} />
+            return <Message key = {message.id} message={message.message} />
         });
 
        
@@ -38,7 +38,7 @@ const Dialogs = (props) => {
                 <div>{mapMessagesData}</div>
                 <div>
                     <div>
-                        <textarea onChange={onNewMessageChange} placeholder='Enter new message' value={props.newMessageText} />
+                        <textarea onChange={onNewMessageChange} placeholder='Enter new message' value={props.dialogPage.newMessageText} />
                     </div>
                     <div>
                         <button onClick={onSendMessageClick}>Отправить сообщение</button>

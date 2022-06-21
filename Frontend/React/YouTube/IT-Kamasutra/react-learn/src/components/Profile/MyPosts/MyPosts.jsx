@@ -3,9 +3,6 @@ import Post from './Post/Post';
 import React from 'react';
 
 
-
-
-
 const MyPosts = (props) => {
 
     let mapPostsData = props.posts.map((posts) => {
