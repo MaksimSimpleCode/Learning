@@ -5,12 +5,7 @@ const SET_USER = "SET_USER";
 
 //Initials
 let initialState = {
-    users: [
-        { id: 1, photoUrl: "https://s0.rbk.ru/v6_top_pics/media/img/1/88/756535684097881.jpg", followed: true, fullName: "Maksim", status: "I am a learning write now", location: { city: "Samara", country: "Russia" } },
-        { id: 2, photoUrl: "https://s0.rbk.ru/v6_top_pics/media/img/1/88/756535684097881.jpg", followed: false, fullName: "Saha", status: "Hey anyway", location: { city: "Minsk", country: "Belarus" } },
-        { id: 3, photoUrl: "https://s0.rbk.ru/v6_top_pics/media/img/1/88/756535684097881.jpg", followed: true, fullName: "Andrew", status: "lowe piss", location: { city: "LA", country: "USA" } },
-        { id: 4, photoUrl: "https://s0.rbk.ru/v6_top_pics/media/img/1/88/756535684097881.jpg", followed: false, fullName: "Joe", status: " ahahaa", location: { city: "Moscow", country: "Russia" } },
-    ],
+    users: [],
     newPostText: "Maskim-Learn.com"
 }
 
