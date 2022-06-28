@@ -2,21 +2,22 @@ import { Route,Routes } from 'react-router-dom';
 import React from 'react';
 import './App.css';
 import Dialogs from './components/Dialogs/Dialogs';
-import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
-import Profile from './components/Profile/Profile';
+import ProfileContainer from './components/Profile/ProfileContainer';
 import DialogsContainer from './components/Dialogs/DialogsContainer';
 import UsersContainer from './components/Users/UsersContainer';
+import HeaderContainer from './components/Header/HeaderContainer';
 
 function App() {
 
   return (
       <div className='app-wrapper'>
-        <Header />
+        <HeaderContainer />
         <Navbar />
         <div className='app-wrapper-content'>
           <Routes>
-            <Route path="/profile" element={<Profile />} />
+            <Route path="/profile/:userId" element={<ProfileContainer />} />
+            <Route path='/profile' element={<ProfileContainer />} />
             <Route path="/dialogs" element={<DialogsContainer />} />
             <Route path='dialogs/*' element={<Dialogs />} />
             <Route path='users' element={<UsersContainer/>} />
