@@ -15,7 +15,21 @@ export const usersAPI = {
             .then(response => {
                 return response.data
             });
+    },
+    follow(userId){
+        return instans.post(`follow/${userId}`)
+    },
+    unfollow(userId){
+        return instans.delete(`follow/${userId}`)
+    },
+    getProfile(userId){
+        return instans.get(`profile/${userId}`)
     }
 
 }
 
+export const authAPI = {
+    me(){
+        return instans.get(`auth/me`)
+    }
+}

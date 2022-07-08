@@ -2,20 +2,16 @@ import styles from './Dialogs.module.css';
 import React from 'react';
 import DialogItem from './DialogItem/DialogItem';
 import Message from './Message/Message';
-import { addMessageActionCreator, updateNewMessageTextActionCreator } from '../../redux/dialogs-reducer';
 
 
 const Dialogs = (props) => {
     
 
-    let mapDialogsData =
-    
-        props.dialogPage.dialogs.map((dialog) => {
+    let mapDialogsData =props.dialogPage.dialogs.map((dialog) => {
             return <DialogItem key = {dialog.id} name={dialog.name} id={dialog.id} />
         });
 
-    let mapMessagesData =
-        props.dialogPage.messages.map((message) => {
+    let mapMessagesData =props.dialogPage.messages.map((message) => {
             return <Message key = {message.id} message={message.message} />
         });
 
@@ -27,7 +23,6 @@ const Dialogs = (props) => {
     let onSendMessageClick = () => {
         props.sendMessage();
     }
-
 
     return (
         <div className={styles.dialogs}>

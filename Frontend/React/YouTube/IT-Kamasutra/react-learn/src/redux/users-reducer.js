@@ -1,3 +1,5 @@
+import { usersAPI } from '../api/api';
+
 const FOLLOW = "FOLLOW";
 const UNFOLLOW = "UNFOLLOW";
 const SET_USER = "SET_USER";
@@ -62,13 +64,52 @@ const usersReducer = (state = initialState, action) => {
 }
 
 //Action creaters (используем их при диспатче в контейнерных компонентах)
-export const follow = (userId) => ({ type: FOLLOW, userId });
-export const unfollow = (userId) => ({ type: UNFOLLOW, userId });
+export const followSucces = (userId) => ({ type: FOLLOW, userId });
+export const unfollowSucces = (userId) => ({ type: UNFOLLOW, userId });
 export const setUsers = (users) => ({ type: SET_USER, users });
 export const setCurrentPage = (currentPage) => ({ type: SET_PARENT_PAGE, currentPage: currentPage });
 export const setTotalUsersCount = (totalUsersCount) => ({ type: SET_TOTAL_USERS_COUNT, count: totalUsersCount });
 export const toggleIsFetching = (isFetching) => ({ type: TOGGLE_IS_FETCHING, isFetching });
 export const toggleFollowingInProgress = (isFetching,userId) => ({ type: TOGGLE_IS_FOLLOWING_PROGRESS, isFetching ,userId});
 
+// redux-thunk - функция которая берет на себя асинхронные операции из ui
+export const getUsers=(currentPage,pageSize)=>{
 
+   return (dispatch)=>{
+    dispatch(toggleIsFetching(true));
+
+    usersAPI.getUsers(currentPage,pageSize).then(data => {
+        dispatch(toggleIsFetching(false));
+        dispatch(setUsers(data.items));
+            dispatch(setTotalUsersCount(data.totalCount));
+        });
+    }
+}
+
+export const follow=(userId)=>{
+
+    return (dispatch)=>{
+        dispatch(toggleFollowingInProgress(true,userId));
+        usersAPI.follow(userId)
+        .then(response => {
+            if(response.data.resultCode===0){
+                dispatch(followSucces(userId));
+            }
+            dispatch(toggleFollowingInProgress(false,userId));
+        });
+     }
+ }
+ export const unfollow=(userId)=>{
+
+    return (dispatch)=>{
+        dispatch(toggleFollowingInProgress(true,userId));
+        usersAPI.unfollow(userId)
+        .then(response => {
+            if(response.data.resultCode===0){
+                dispatch(unfollowSucces(userId));
+            }
+            dispatch(toggleFollowingInProgress(false, userId));
+        });
+     }
+ }
 export default usersReducer;
