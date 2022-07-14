@@ -50,3 +50,6 @@ function printMyName(){
 
 //Вызываем функцию через определенное время
 setTimeout(printMyName,1000);
+
+
+let myArray=[1,2,3,4,5];

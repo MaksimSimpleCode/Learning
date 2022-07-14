@@ -1,0 +1,16 @@
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\TestSobes.exe
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\TestSobes.deps.json
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\TestSobes.runtimeconfig.json
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\TestSobes.runtimeconfig.dev.json
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\TestSobes.dll
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\ref\TestSobes.dll
+A:\Programming\C#\TestSobes\TestSobes\bin\Debug\net5.0\TestSobes.pdb
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.csproj.AssemblyReference.cache
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.AssemblyInfoInputs.cache
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.AssemblyInfo.cs
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.csproj.CoreCompileInputs.cache
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.dll
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\ref\TestSobes.dll
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.pdb
+A:\Programming\C#\TestSobes\TestSobes\obj\Debug\net5.0\TestSobes.genruntimeconfig.cache
