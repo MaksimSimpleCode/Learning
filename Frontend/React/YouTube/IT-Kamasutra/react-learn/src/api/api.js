@@ -23,11 +23,23 @@ export const usersAPI = {
         return instans.delete(`follow/${userId}`)
     },
     getProfile(userId){
+        console.warn("Используется устаревший метод, используйте пожалуйста profileAPI obj")
+        return profileAPI.getProfile(userId);
+    }
+}
+export const profileAPI = {
+    getProfile(userId){
         return instans.get(`profile/${userId}`)
+    },
+    getStatus(userId){
+        return instans.get(`status/${userId}`)
+    },
+    updateStatus(status){
+        return instans.put(`status`,{status:status})
     }
 
-}
 
+}
 export const authAPI = {
     me(){
         return instans.get(`auth/me`)
