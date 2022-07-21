@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankApplication\\BankApplication.csproj": {}
+    "D:\\Programming\\Learning\\C#\\BankApplication\\BankApplication\\BankApplication.csproj": {}
   },
   "projects": {
-    "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankApplication\\BankApplication.csproj": {
+    "D:\\Programming\\Learning\\C#\\BankApplication\\BankApplication\\BankApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankApplication\\BankApplication.csproj",
+        "projectUniqueName": "D:\\Programming\\Learning\\C#\\BankApplication\\BankApplication\\BankApplication.csproj",
         "projectName": "BankApplication",
-        "projectPath": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankApplication\\BankApplication.csproj",
-        "packagesPath": "C:\\Users\\mgf_m\\.nuget\\packages\\",
-        "outputPath": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankApplication\\obj\\",
+        "projectPath": "D:\\Programming\\Learning\\C#\\BankApplication\\BankApplication\\BankApplication.csproj",
+        "packagesPath": "C:\\Users\\gusev\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Learning\\C#\\BankApplication\\BankApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mgf_m\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\gusev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -34,8 +28,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\BankLibrary.csproj": {
-                "projectPath": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\BankLibrary.csproj"
+              "D:\\Programming\\Learning\\C#\\BankApplication\\BankLibrary\\BankLibrary.csproj": {
+                "projectPath": "D:\\Programming\\Learning\\C#\\BankApplication\\BankLibrary\\BankLibrary.csproj"
               }
             }
           }
@@ -67,28 +61,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\BankLibrary.csproj": {
+    "D:\\Programming\\Learning\\C#\\BankApplication\\BankLibrary\\BankLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\BankLibrary.csproj",
+        "projectUniqueName": "D:\\Programming\\Learning\\C#\\BankApplication\\BankLibrary\\BankLibrary.csproj",
         "projectName": "BankLibrary",
-        "projectPath": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\BankLibrary.csproj",
-        "packagesPath": "C:\\Users\\mgf_m\\.nuget\\packages\\",
-        "outputPath": "A:\\Программирование\\C#\\Обучение\\BankApplication\\BankLibrary\\obj\\",
+        "projectPath": "D:\\Programming\\Learning\\C#\\BankApplication\\BankLibrary\\BankLibrary.csproj",
+        "packagesPath": "C:\\Users\\gusev\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Learning\\C#\\BankApplication\\BankLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mgf_m\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\gusev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -130,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
