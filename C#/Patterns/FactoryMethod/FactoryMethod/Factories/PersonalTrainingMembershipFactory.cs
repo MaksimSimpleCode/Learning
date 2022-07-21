@@ -2,7 +2,7 @@
 
 namespace FactoryMethod.Factories
 {
-    class PersonalTrainingMembershipFactory : MembershipFactory
+   internal class PersonalTrainingMembershipFactory : MembershipFactory
     {
         private readonly decimal _price;
         private readonly string _description;
