@@ -1,0 +1,16 @@
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\JsonSerializeResponse.exe
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\JsonSerializeResponse.deps.json
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\JsonSerializeResponse.runtimeconfig.json
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\JsonSerializeResponse.runtimeconfig.dev.json
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\JsonSerializeResponse.dll
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\ref\JsonSerializeResponse.dll
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\bin\Debug\net5.0\JsonSerializeResponse.pdb
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.csproj.AssemblyReference.cache
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.AssemblyInfoInputs.cache
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.AssemblyInfo.cs
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.dll
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\ref\JsonSerializeResponse.dll
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.pdb
+D:\Programming\Learning\C#\JsonSerializeResponse\JsonSerializeResponse\obj\Debug\net5.0\JsonSerializeResponse.genruntimeconfig.cache
